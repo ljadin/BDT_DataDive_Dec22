@@ -3,6 +3,7 @@ title: "Pell_grant_status"
 output: html_notebook
 ---
 
+# packages
 ```{r}
 library(tidyverse)
 library(plotly)
@@ -10,15 +11,128 @@ library(sf)
 library(viridis)
 library(urbnmapr)
 library(viridis)
+library(corrplot)
 ```
 
+# data 
+
+Obtained from https://nces.ed.gov/ipeds/datacenter/
+
 ```{r}
-data <- read.csv('')
+data <- read.csv('2021_pell_grant_data_nces.csv')
 head(data)
 ```
 
+```{r}
+data <- data[complete.cases(data), ]
+data <- data[nchar(data$county) > 0, ]
+```
+
+```{r}
+colnames(data)
+```
+
+```{r}
+(data_per_state <- aggregate(data[, c("n_pell","headcount")], by=list(state=data$state), sum) %>%
+mutate(per_pell = round(100 * n_pell / headcount))) %>% head()
+```
+
+```{r}
+(data_per_county <- aggregate(data[, c("n_pell","headcount")], by=list(county=data$county, state=data$state, fips=data$fips_county), sum) %>%
+mutate(per_pell = round(100 * n_pell / headcount))) %>% head()
+```
+
+```{r}
+data_per_county$per_pell_state <- data_per_state$per_pell[match(data_per_county$state, data_per_state$state)]
+data_per_county$gap <- data_per_county$per_pell - data_per_county$per_pell_state
+```
 
 
+```{r}
+data_per_county$fips_code = counties$county_fips[match(data_per_county$fips, paste(counties$county_name, counties$state_abbv, sep=', '))]
+```
+
+# visualization
+```{r}
+plot_height= 1080
+g <- counties %>% mutate(gap = data_per_county$gap[match(counties$county_fips, data_per_county$fips_code)]) %>%
+mutate(county = paste(county_name, state_abbv, sep=', ')) %>%
+ggplot() +
+geom_polygon(mapping = aes(x = long, y = lat, group = group, fill=gap, label=county),
+color = NA) +
+coord_map(projection = 'albers', lat0 = 39, lat1 = 45) +
+scale_fill_viridis(option='mako', limits=c(-70, 70), na.value="gray85") +
+theme(asp=1, panel.background = element_rect(fill='white')) +
+labs(fill='gap (%)') +
+ggtitle('Pell grant percentage gap in US counties relative to their respective state') +
+xlab('') +
+ylab('')
+gi <- ggplotly(g, tooltip = c('gap', 'county'), height=plot_height, width=plot_height * 4/3)
+htmlwidgets::saveWidget(as_widget(gi), "pell grant gap.html")
+```
+
+# analysis
+
+```{r}
+counties_shp <- read_sf("~/Datadive/cb_2018_us_county_500k/cb_2018_us_county_500k.shp")
+head(counties_shp)
+```
+
+```{r}
+(pop <- read.csv('estimated_population_by_county.csv')) %>% head()
+```
+
+```{r}
+counties_characteristics <- merge(pop, counties_shp, by.x='GEO_ID', by.y='AFFGEOID')
+```
+
+```{r}
+counties_characteristics$pop_density <- 1e6 * counties_characteristics$estimated_population/counties_characteristics$ALAND
+```
+
+```{r}
+data_per_county$pop_density <- counties_characteristics$pop_density[match(data_per_county$fips_code, counties_characteristics$GEOID)]
+```
 
 
+```{r}
+ggplot(data_per_county, aes(x=pop_density, y=gap)) +
+  geom_point() +
+  geom_smooth() +
+  scale_x_log10() +
+  theme(asp=1, panel.background = element_blank(), panel.grid=element_line(color='gray95'))
+```
+
+
+```{r}
+write.csv(data_per_county, 'data_per_county.csv', quote=F, row.names=F)
+```
+
+
+```{r}
+data_per_county_2 <- aggregate(data[, c(5, 8, 12:22)], by=list(county=data$county, state=data$state, fips=data$fips_county), mean) 
+
+```
+
+
+```{r}
+all_county_data <- merge(data_per_county, data_per_county_2, by=c('fips', 'county', 'state'))
+all_county_data <- all_county_data[, c(1:3, 9, 8, 4:7, 10:23)]
+```
+
+```{r}
+code_maps <- read.csv('code_maps.csv', header=F) %>% .[1:25, ]
+code_maps <- rbind(code_maps, c(V1='pop_density', V2='Population density'))
+code_maps <- rbind(code_maps, c(V1='per_pell_state', V2='Percent Pell grant in State (weighted average)'))
+```
+
+```{r}
+pdf('cor_plot.pdf', width=8, height=6)
+cor(-all_county_data[, 5], all_county_data[, c(6:7, 9:23)], use='pairwise.complete.obs') %>% {
+  pheatmap(., cluster_rows = F, color = c(mako(50), rev(rocket(50))), breaks = seq(-1, 1, length.out=100),
+           cellwidth = 25, cellheight = 25, display_numbers = T, 
+           labels_col = code_maps$V2[match(colnames(.), code_maps$V1)])
+}
+dev.off()
+```
 

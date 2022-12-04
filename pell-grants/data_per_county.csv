@@ -1,0 +1,1445 @@
+county,state,fips,n_pell,headcount,per_pell,per_pell_state,gap,fips_code,pop_density
+Abbeville County,South Carolina,Abbeville County, SC,322,733,44,33,11,45001,NA
+Acadia Parish,Louisiana,Acadia Parish, LA,1276,3142,41,42,-1,22001,NA
+Accomack County,Virginia,Accomack County, VA,186,677,27,29,-2,51001,NA
+Ada County,Idaho,Ada County, ID,5435,22940,24,27,-3,16001,187.886083392374
+Adair County,Kentucky,Adair County, KY,1223,1929,63,35,28,21001,NA
+Adair County,Missouri,Adair County, MO,800,4429,18,30,-12,29001,NA
+Adams County,Colorado,Adams County, CO,8085,35138,23,30,-7,08001,172.860105693675
+Adams County,Illinois,Adams County, IL,1543,3188,48,33,15,17001,NA
+Adams County,Nebraska,Adams County, NE,315,956,33,25,8,31001,NA
+Adams County,Pennsylvania,Adams County, PA,487,2507,19,30,-11,42001,77.4994172174372
+Addison County,Vermont,Addison County, VT,409,2580,16,22,-6,50001,NA
+Aguada Municipio,Puerto Rico,Aguada Municipio, PR,26,40,65,73,-8,NA,NA
+Aguadilla Municipio,Puerto Rico,Aguadilla Municipio, PR,5774,6888,84,73,11,NA,NA
+Aiken County,South Carolina,Aiken County, SC,2280,5477,42,33,9,45003,61.5882969238455
+Alachua County,Florida,Alachua County, FL,12884,52141,25,38,-13,12001,123.211810163036
+Alamance County,North Carolina,Alamance County, NC,1829,10477,17,35,-18,37001,158.547886535664
+Alameda County,California,Alameda County, CA,27036,112199,24,31,-7,06001,863.300018525941
+Alamosa County,Colorado,Alamosa County, CO,707,1902,37,30,7,08003,NA
+Albany County,New York,Albany County, NY,11688,41438,28,36,-8,36001,231.694987859983
+Albany County,Wyoming,Albany County, WY,2129,10099,21,21,0,56001,NA
+Albemarle County,Virginia,Albemarle County, VA,3548,22178,16,29,-13,51003,60.8437961051622
+Alcorn County,Mississippi,Alcorn County, MS,84,131,64,42,22,28003,NA
+Alexandria City,Virginia,Alexandria City, VA,766,1423,54,29,25,NA,NA
+Allegany County,Maryland,Allegany County, MD,2257,6642,34,29,5,24001,61.9401998057928
+Allegany County,New York,Allegany County, NY,2726,6130,44,36,8,36003,NA
+Alleghany County,Virginia,Alleghany County, VA,284,1075,26,29,-3,51005,NA
+Allegheny County,Pennsylvania,Allegheny County, PA,15499,65993,23,30,-7,42003,654.729473670449
+Allen County,Indiana,Allen County, IN,6336,15838,40,29,11,18003,228.263757044343
+Allen County,Kansas,Allen County, KS,426,2113,20,27,-7,20001,NA
+Allen County,Ohio,Allen County, OH,2502,9189,27,28,-1,39003,97.5270616372612
+Allendale County,South Carolina,Allendale County, SC,256,878,29,33,-4,45005,NA
+Alpena County,Michigan,Alpena County, MI,412,1436,29,30,-1,26007,NA
+Amherst County,Virginia,Amherst County, VA,113,356,32,29,3,51009,NA
+Anchorage Municipality,Alaska,Anchorage Municipality, AK,2746,12188,23,21,2,02020,65.1921944978542
+Anderson County,South Carolina,Anderson County, SC,3251,9830,33,33,0,45007,111.910666310546
+Androscoggin County,Maine,Androscoggin County, ME,1480,5207,28,28,0,23001,91.6155208696087
+Angelina County,Texas,Angelina County, TX,1559,4473,35,33,2,48005,41.8662704324022
+Anne Arundel County,Maryland,Anne Arundel County, MD,2859,13496,21,29,-8,24003,549.514161783999
+Anoka County,Minnesota,Anoka County, MN,2288,10293,22,26,-4,27003,335.814318246418
+Anson County,North Carolina,Anson County, NC,561,3019,19,35,-16,37007,NA
+Apache County,Arizona,Apache County, AZ,651,1369,48,35,13,04001,2.26275901761408
+Arapahoe County,Colorado,Arapahoe County, CO,6841,31720,22,30,-8,08005,316.892345380331
+Arecibo Municipio,Puerto Rico,Arecibo Municipio, PR,6329,7653,83,73,10,NA,NA
+Arlington County,Virginia,Arlington County, VA,2587,6171,42,29,13,51013,3459.89336580874
+Armstrong County,Pennsylvania,Armstrong County, PA,118,223,53,30,23,42005,38.4772995497776
+Aroostook County,Maine,Aroostook County, ME,1096,3869,28,28,0,23003,3.86949650915255
+Arroyo Municipio,Puerto Rico,Arroyo Municipio, PR,187,201,93,73,20,NA,NA
+Ascension Parish,Louisiana,Ascension Parish, LA,915,2755,33,42,-9,22005,170.877084470742
+Ashland County,Ohio,Ashland County, OH,929,3734,25,28,-3,39005,NA
+Ashland County,Wisconsin,Ashland County, WI,200,570,35,25,10,55003,NA
+Ashtabula County,Ohio,Ashtabula County, OH,530,1370,39,28,11,39007,53.5301035787844
+Atchison County,Kansas,Atchison County, KS,354,2124,17,27,-10,20005,NA
+Athens County,Ohio,Athens County, OH,5138,21764,24,28,-4,39009,NA
+Atlantic County,New Jersey,Atlantic County, NJ,6112,13882,44,37,7,34001,191.111514698957
+Augusta County,Virginia,Augusta County, VA,1073,3462,31,29,2,51015,30.9668772558848
+Avery County,North Carolina,Avery County, NC,627,1733,36,35,1,37011,NA
+Baldwin County,Alabama,Baldwin County, AL,5089,20199,25,33,-8,01003,58.1156739266069
+Baldwin County,Georgia,Baldwin County, GA,3600,13106,27,40,-13,13009,NA
+Baltimore City,Maryland,Baltimore City, MD,10126,29052,35,29,6,NA,NA
+Baltimore County,Maryland,Baltimore County, MD,18126,54022,34,29,5,24005,548.037924555274
+Bamberg County,South Carolina,Bamberg County, SC,513,906,57,33,24,45009,NA
+Bannock County,Idaho,Bannock County, ID,2911,9624,30,27,3,16005,30.6327978147645
+Baraga County,Michigan,Baraga County, MI,41,79,52,30,22,26013,NA
+Barbour County,West Virginia,Barbour County, WV,440,766,57,32,25,54001,NA
+Barnes County,North Dakota,Barnes County, ND,272,1541,18,21,-3,38003,NA
+Barnstable County,Massachusetts,Barnstable County, MA,1101,4336,25,27,-2,25001,227.619957262948
+Barranquitas Municipio,Puerto Rico,Barranquitas Municipio, PR,1367,1647,83,73,10,NA,NA
+Barren County,Kentucky,Barren County, KY,49,58,84,35,49,21009,NA
+Barry County,Michigan,Barry County, MI,20,108,19,30,-11,26015,NA
+Barton County,Kansas,Barton County, KS,686,4094,17,27,-10,20009,NA
+Bastrop County,Texas,Bastrop County, TX,100,236,42,33,9,48021,44.3659007225607
+Baxter County,Arkansas,Baxter County, AR,583,1271,46,37,9,05005,NA
+Bay County,Florida,Bay County, FL,1436,4626,31,38,-7,12005,91.1988728509945
+Bay County,Michigan,Bay County, MI,2678,7060,38,30,8,26017,89.9120331434342
+Bayamón Municipio,Puerto Rico,Bayamón Municipio, PR,24040,36986,65,73,-8,NA,NA
+Beaufort County,North Carolina,Beaufort County, NC,437,1412,31,35,-4,37013,NA
+Beaufort County,South Carolina,Beaufort County, SC,1517,4118,37,33,4,45013,128.492717175618
+Beaver County,Pennsylvania,Beaver County, PA,1023,2976,34,30,4,42007,147.991249491574
+Beaverhead County,Montana,Beaverhead County, MT,554,1436,39,27,12,30001,NA
+Bedford County,Tennessee,Bedford County, TN,284,647,44,37,7,47003,NA
+Bee County,Texas,Bee County, TX,1225,4099,30,33,-3,48025,NA
+Belknap County,New Hampshire,Belknap County, NH,238,778,31,39,-8,33001,NA
+Bell County,Kentucky,Bell County, KY,58,109,53,35,18,21013,NA
+Bell County,Texas,Bell County, TX,3921,10472,37,33,4,48027,139.420244497032
+Belmont County,Ohio,Belmont County, OH,438,1937,23,28,-5,39013,47.779024075039
+Beltrami County,Minnesota,Beltrami County, MN,1519,5199,29,26,3,27007,NA
+Bennington County,Vermont,Bennington County, VT,145,697,21,22,-1,50003,NA
+Benson County,North Dakota,Benson County, ND,110,182,60,21,39,38005,NA
+Benton County,Arkansas,Benton County, AR,2218,9679,23,37,-14,05007,133.79038899695
+Benton County,Oregon,Benton County, OR,6135,26740,23,30,-7,41003,54.9072516548859
+Benton County,Washington,Benton County, WA,338,620,55,24,31,53005,47.7010613664785
+Bergen County,New Jersey,Bergen County, NJ,13367,34945,38,37,1,34003,1582.02295123256
+Berkeley County,South Carolina,Berkeley County, SC,89,272,33,33,0,45015,82.8109696347318
+Berkeley County,West Virginia,Berkeley County, WV,3737,8629,43,32,11,54003,151.566985976769
+Berks County,Pennsylvania,Berks County, PA,6414,15910,40,30,10,42011,193.572736540976
+Berkshire County,Massachusetts,Berkshire County, MA,1740,5125,34,27,7,25003,53.5937764006064
+Bernalillo County,New Mexico,Bernalillo County, NM,13342,41558,32,35,-3,35001,224.226686042097
+Berrien County,Michigan,Berrien County, MI,1322,4402,30,30,0,26021,104.112409223208
+Bexar County,Texas,Bexar County, TX,45181,133131,34,33,1,48029,631.428134743375
+Bibb County,Georgia,Bibb County, GA,5962,14406,41,40,1,13021,242.688560854667
+Big Horn County,Montana,Big Horn County, MT,14,211,7,27,-20,30003,NA
+Bingham County,Idaho,Bingham County, ID,16,18,89,27,62,16011,NA
+Black Hawk County,Iowa,Black Hawk County, IA,3506,13843,25,26,-1,19013,88.9521835615863
+Bladen County,North Carolina,Bladen County, NC,450,1057,43,35,8,37017,NA
+Blaine County,Montana,Blaine County, MT,106,144,74,27,47,30005,NA
+Blair County,Pennsylvania,Blair County, PA,317,649,49,30,19,42013,89.4149590836627
+Blount County,Tennessee,Blount County, TN,417,1072,39,37,2,47009,95.0751287149382
+Blue Earth County,Minnesota,Blue Earth County, MN,3097,13699,23,26,-3,27013,35.7715547962752
+Bolivar County,Mississippi,Bolivar County, MS,957,2376,40,42,-2,28011,NA
+Bond County,Illinois,Bond County, IL,341,823,41,33,8,17005,NA
+Bonneville County,Idaho,Bonneville County, ID,818,2020,40,27,13,16019,26.4708045194438
+Boone County,Arkansas,Boone County, AR,708,1604,44,37,7,05009,NA
+Boone County,Kentucky,Boone County, KY,1929,5219,37,35,2,21015,215.422051700615
+Boone County,Missouri,Boone County, MO,8484,31836,27,30,-3,29019,104.665497203577
+Bossier Parish,Louisiana,Bossier Parish, LA,3401,6404,53,42,11,22015,59.3389081575286
+Bottineau County,North Dakota,Bottineau County, ND,192,1060,18,21,-3,38009,NA
+Boulder County,Colorado,Boulder County, CO,11650,43470,27,30,-3,08013,175.168615945326
+Bourbon County,Kansas,Bourbon County, KS,473,1617,29,27,2,20011,NA
+Bowie County,Texas,Bowie County, TX,2364,5777,41,33,8,48037,40.3905775700508
+Boyd County,Kentucky,Boyd County, KY,1146,2400,48,35,13,21019,NA
+Boyle County,Kentucky,Boyle County, KY,264,1333,20,35,-15,21021,NA
+Bradford County,Florida,Bradford County, FL,65,214,30,38,-8,12007,NA
+Bradford County,Pennsylvania,Bradford County, PA,7,50,14,30,-16,42015,NA
+Bradley County,Tennessee,Bradley County, TN,2533,8075,31,37,-6,47011,129.375694942798
+Brazoria County,Texas,Brazoria County, TX,1613,9571,17,33,-16,48039,107.610846979857
+Brazos County,Texas,Brazos County, TX,11368,55636,20,33,-13,48041,156.304856958194
+Breathitt County,Kentucky,Breathitt County, KY,49,87,56,35,21,21025,NA
+Bremer County,Iowa,Bremer County, IA,379,1550,24,26,-2,19017,NA
+Brevard County,Florida,Brevard County, FL,5826,19027,31,38,-7,12009,234.521140266362
+Brewster County,Texas,Brewster County, TX,995,1789,56,33,23,48043,NA
+Bristol City,Virginia,Bristol City, VA,31,78,40,29,11,NA,NA
+Bristol County,Massachusetts,Bristol County, MA,6107,17334,35,27,8,25005,404.990608964556
+Bristol County,Rhode Island,Bristol County, RI,696,4346,16,30,-14,44001,NA
+Bronx County,New York,Bronx County, NY,21792,50286,43,36,7,36005,13083.8473651898
+Brooke County,West Virginia,Brooke County, WV,252,569,44,32,12,54009,NA
+Brookings County,South Dakota,Brookings County, SD,1842,9976,18,25,-7,46011,NA
+Broome County,New York,Broome County, NY,5965,19897,30,36,-6,36007,107.896090902691
+Broomfield County,Colorado,Broomfield County, CO,40,292,14,30,-16,08014,881.212692794597
+Broward County,Florida,Broward County, FL,32191,76556,42,38,4,12011,619.694076285691
+Brown County,Minnesota,Brown County, MN,218,850,26,26,0,27015,NA
+Brown County,Ohio,Brown County, OH,71,162,44,28,16,39015,NA
+Brown County,South Dakota,Brown County, SD,613,3566,17,25,-8,46013,NA
+Brown County,Texas,Brown County, TX,303,981,31,33,-2,48049,NA
+Brown County,Wisconsin,Brown County, WI,5103,22001,23,25,-2,55009,196.361341333047
+Brunswick County,North Carolina,Brunswick County, NC,582,1553,37,35,2,37019,65.5706036750409
+Brunswick County,Virginia,Brunswick County, VA,1079,3123,35,29,6,51025,NA
+Bryan County,Oklahoma,Bryan County, OK,1365,3351,41,31,10,40013,NA
+Buchanan County,Missouri,Buchanan County, MO,1520,5445,28,30,-2,29021,79.3050331964099
+Bucks County,Pennsylvania,Bucks County, PA,4562,13131,35,30,5,42017,412.720545757021
+Buena Vista City,Virginia,Buena Vista City, VA,504,1140,44,29,15,NA,NA
+Buena Vista County,Iowa,Buena Vista County, IA,679,1456,47,26,21,19021,NA
+Buffalo County,Nebraska,Buffalo County, NE,1555,4385,35,25,10,31019,NA
+Bulloch County,Georgia,Bulloch County, GA,9572,25622,37,40,-3,13031,47.0910817977432
+Buncombe County,North Carolina,Buncombe County, NC,3916,11568,34,35,-1,37021,159.6959175746
+Burke County,North Carolina,Burke County, NC,584,1792,33,35,-2,37023,66.8201263108221
+Burleigh County,North Dakota,Burleigh County, ND,1292,6717,19,21,-2,38015,23.3983031641742
+Burlington County,New Jersey,Burlington County, NJ,2903,8670,33,37,-4,34005,224.258003757353
+Butler County,Kansas,Butler County, KS,2131,7175,30,27,3,20015,18.3344203841399
+Butler County,Missouri,Butler County, MO,1417,2802,51,30,21,29023,NA
+Butler County,Ohio,Butler County, OH,3621,22633,16,28,-12,39017,322.896604479085
+Butler County,Pennsylvania,Butler County, PA,3021,10415,29,30,-1,42019,95.1175678902283
+Butte County,California,Butte County, CA,9879,25046,39,31,8,06007,49.1475847608362
+Cabarrus County,North Carolina,Cabarrus County, NC,233,618,38,35,3,37025,247.196968632674
+Cabell County,West Virginia,Cabell County, WV,4295,10569,41,32,9,54011,128.350102301632
+Cache County,Utah,Cache County, UT,7460,27346,27,27,0,49005,45.5530158986662
+Caddo County,Oklahoma,Caddo County, OK,39,361,11,31,-20,40015,NA
+Caddo Parish,Louisiana,Caddo Parish, LA,3554,7113,50,42,8,22017,102.405910063631
+Caguas Municipio,Puerto Rico,Caguas Municipio, PR,4561,5569,82,73,9,NA,NA
+Calcasieu Parish,Louisiana,Calcasieu Parish, LA,3608,9988,36,42,-6,22019,74.4716980850478
+Caldwell County,North Carolina,Caldwell County, NC,1085,3845,28,35,-7,37027,65.8349644614045
+Calhoun County,Alabama,Calhoun County, AL,3183,7747,41,33,8,01015,73.9056633908837
+Calhoun County,Arkansas,Calhoun County, AR,429,769,56,37,19,05013,NA
+Calhoun County,Michigan,Calhoun County, MI,1697,5089,33,30,3,26025,73.1571915348496
+Callaway County,Missouri,Callaway County, MO,515,1491,35,30,5,29027,NA
+Calloway County,Kentucky,Calloway County, KY,2467,7863,31,35,-4,21035,NA
+Cambria County,Pennsylvania,Cambria County, PA,2282,10482,22,30,-8,42021,74.1325354028738
+Camden County,Georgia,Camden County, GA,12,40,30,40,-10,13039,NA
+Camden County,Missouri,Camden County, MO,4,10,40,30,10,29029,NA
+Camden County,New Jersey,Camden County, NJ,7022,16242,43,37,6,34007,913.614834183829
+Cameron County,Texas,Cameron County, TX,4879,11749,42,33,9,48061,183.303472688101
+Campbell County,Kentucky,Campbell County, KY,3011,11702,26,35,-9,21037,237.392849624809
+Campbell County,Tennessee,Campbell County, TN,195,411,47,37,10,47013,NA
+Canadian County,Oklahoma,Canadian County, OK,574,3752,15,31,-16,40017,69.6454110195927
+Canyon County,Idaho,Canyon County, ID,3754,12980,29,27,2,16027,159.898111185894
+Cape Girardeau County,Missouri,Cape Girardeau County, MO,3168,9532,33,30,3,29031,54.8005171247298
+Carlton County,Minnesota,Carlton County, MN,288,1639,18,26,-8,27017,NA
+Carolina Municipio,Puerto Rico,Carolina Municipio, PR,8096,10154,80,73,7,NA,NA
+Carroll County,Georgia,Carroll County, GA,4540,10331,44,40,4,13045,94.3677195860056
+Carroll County,Maryland,Carroll County, MD,1138,4864,23,29,-6,24013,149.97519776315
+Carroll County,Tennessee,Carroll County, TN,1375,3664,38,37,1,47017,NA
+Carson City,Nevada,Carson City, NV,802,3582,22,32,-10,32510,NA
+Carter County,Kentucky,Carter County, KY,251,600,42,35,7,21043,NA
+Carter County,Oklahoma,Carter County, OK,70,761,9,31,-22,40019,NA
+Carter County,Tennessee,Carter County, TN,682,1658,41,37,4,47019,NA
+Carteret County,North Carolina,Carteret County, NC,504,1347,37,35,2,37031,52.1344765241531
+Carver County,Minnesota,Carver County, MN,299,1141,26,26,0,27019,118.41011559917
+Cascade County,Montana,Cascade County, MT,636,2017,32,27,5,30013,12.0933206450911
+Cass County,Michigan,Cass County, MI,642,1759,36,30,6,26027,NA
+Cass County,Minnesota,Cass County, MN,97,133,73,26,47,27021,NA
+Cass County,Missouri,Cass County, MO,138,420,33,30,3,29037,60.7674217359777
+Cass County,North Dakota,Cass County, ND,2455,11571,21,21,0,38017,40.8120450048286
+Catawba County,North Carolina,Catawba County, NC,1769,6111,29,35,-6,37035,155.570071589639
+Cattaraugus County,New York,Cattaraugus County, NY,515,1859,28,36,-8,36009,22.5537448804042
+Cayey Municipio,Puerto Rico,Cayey Municipio, PR,2069,2912,71,73,-2,NA,NA
+Cayuga County,New York,Cayuga County, NY,957,3300,29,36,-7,36011,42.3628864410696
+Cecil County,Maryland,Cecil County, MD,462,2090,22,29,-7,24015,115.854529905708
+Centre County,Pennsylvania,Centre County, PA,16472,74961,22,30,-8,42027,54.8009631311625
+Cerro Gordo County,Iowa,Cerro Gordo County, IA,711,2765,26,26,0,19033,NA
+Champaign County,Illinois,Champaign County, IL,10205,39651,26,33,-7,17019,79.8256809275201
+Charles County,Maryland,Charles County, MD,1288,6164,21,29,-8,24017,142.277223824918
+Charleston County,South Carolina,Charleston County, SC,7469,28125,27,33,-6,45019,173.729351394268
+Charlotte County,Florida,Charlotte County, FL,74,250,30,38,-8,12015,110.451544721453
+Chatham County,Georgia,Chatham County, GA,8652,22361,39,40,-1,13051,264.158721237056
+Chautauqua County,New York,Chautauqua County, NY,2854,7632,37,36,1,36013,46.1793463348214
+Chaves County,New Mexico,Chaves County, NM,519,2191,24,35,-11,35005,NA
+Chelan County,Washington,Chelan County, WA,840,3090,27,24,3,53007,10.5271246048646
+Chemung County,New York,Chemung County, NY,390,912,43,36,7,36015,78.7129394716414
+Chenango County,New York,Chenango County, NY,14,21,67,36,31,36017,NA
+Cherokee County,Georgia,Cherokee County, GA,491,1294,38,40,-2,13057,251.801792591646
+Cherokee County,North Carolina,Cherokee County, NC,308,988,31,35,-4,37039,NA
+Cherokee County,Oklahoma,Cherokee County, OK,2641,6004,44,31,13,40021,NA
+Cherokee County,South Carolina,Cherokee County, SC,864,1818,48,33,15,45021,NA
+Cherokee County,Texas,Cherokee County, TX,187,531,35,33,2,48073,NA
+Chesapeake City,Virginia,Chesapeake City, VA,208,436,48,29,19,NA,NA
+Cheshire County,New Hampshire,Cheshire County, NH,1145,4596,25,39,-14,33005,42.2478057571495
+Chester County,Pennsylvania,Chester County, PA,6352,20698,31,30,1,42029,277.104345975017
+Chester County,Tennessee,Chester County, TN,403,1727,23,37,-14,47023,NA
+Chesterfield County,South Carolina,Chesterfield County, SC,499,1435,35,33,2,45025,NA
+Chesterfield County,Virginia,Chesterfield County, VA,4556,13657,33,29,4,51041,337.900364264465
+Chippewa County,Michigan,Chippewa County, MI,749,2347,32,30,2,26033,NA
+Chittenden County,Vermont,Chittenden County, VT,2747,16368,17,22,-5,50007,121.507450333311
+Chouteau County,Montana,Chouteau County, MT,147,311,47,27,20,30015,NA
+Christian County,Kentucky,Christian County, KY,1075,2232,48,35,13,21047,38.9363446878924
+Cibola County,New Mexico,Cibola County, NM,240,622,39,35,4,35006,NA
+Citrus County,Florida,Citrus County, FL,196,499,39,38,1,12017,104.889234339721
+Clackamas County,Oregon,Clackamas County, OR,1286,5897,22,30,-8,41005,87.2103172642249
+Claiborne County,Mississippi,Claiborne County, MS,1897,2729,70,42,28,28021,NA
+Claiborne County,Tennessee,Claiborne County, TN,842,1917,44,37,7,47025,NA
+Clallam County,Washington,Clallam County, WA,428,1727,25,24,1,53009,17.3675735375394
+Clare County,Michigan,Clare County, MI,1049,3283,32,30,2,26035,NA
+Clarion County,Pennsylvania,Clarion County, PA,1294,3587,36,30,6,42031,NA
+Clark County,Arkansas,Clark County, AR,1622,4290,38,37,1,05019,NA
+Clark County,Indiana,Clark County, IN,323,568,57,29,28,18019,127.10192130629
+Clark County,Nevada,Clark County, NV,27472,75937,36,32,4,32003,112.160302940935
+Clark County,Ohio,Clark County, OH,2253,6841,33,28,5,39023,131.955831061026
+Clark County,Washington,Clark County, WA,3123,10536,30,24,6,53011,314.175540565983
+Clarke County,Alabama,Clarke County, AL,19,38,50,33,17,01025,NA
+Clarke County,Georgia,Clarke County, GA,7857,34464,23,40,-17,13059,416.844783491689
+Clatsop County,Oregon,Clatsop County, OR,320,768,42,30,12,41007,NA
+Clay County,Florida,Clay County, FL,483,732,66,38,28,12019,141.95895535229
+Clay County,Minnesota,Clay County, MN,1650,6382,26,26,0,27027,24.2234073997316
+Clay County,Missouri,Clay County, MO,479,1617,30,30,0,29047,248.088207233026
+Clay County,South Dakota,Clay County, SD,1445,7103,20,25,-5,46027,NA
+Clayton County,Georgia,Clayton County, GA,5279,9114,58,40,18,13063,809.690910619414
+Clearfield County,Pennsylvania,Clearfield County, PA,32,78,41,30,11,42033,27.011707061447
+Clermont County,Ohio,Clermont County, OH,776,7564,10,28,-18,39025,179.0345746096
+Cleveland County,North Carolina,Cleveland County, NC,1629,4433,37,35,2,37045,83.4732477901568
+Cleveland County,Oklahoma,Cleveland County, OK,6180,25031,25,31,-6,40027,213.220492624935
+Clinton County,Illinois,Clinton County, IL,723,2785,26,33,-7,17027,NA
+Clinton County,New York,Clinton County, NY,2128,5800,37,36,1,36019,29.6141250485845
+Clinton County,Ohio,Clinton County, OH,439,1165,38,28,10,39027,NA
+Clinton County,Pennsylvania,Clinton County, PA,907,2727,33,30,3,42035,NA
+Cloud County,Kansas,Cloud County, KS,397,1589,25,27,-2,20029,NA
+Coahoma County,Mississippi,Coahoma County, MS,1141,1612,71,42,29,28027,NA
+Cobb County,Georgia,Cobb County, GA,17896,49794,36,40,-4,13067,871.400999815035
+Cochise County,Arizona,Cochise County, AZ,1269,3327,38,35,3,04003,7.89481720544048
+Coconino County,Arizona,Coconino County, AZ,8586,28554,30,35,-5,04005,3.00799571925388
+Codington County,South Dakota,Codington County, SD,724,2217,33,25,8,46029,NA
+Coffee County,Alabama,Coffee County, AL,671,1809,37,33,4,01031,NA
+Coffee County,Georgia,Coffee County, GA,1026,2028,51,40,11,13069,NA
+Coffee County,Tennessee,Coffee County, TN,62,108,57,37,20,47031,NA
+Colbert County,Alabama,Colbert County, AL,1243,3360,37,33,4,01033,NA
+Cole County,Missouri,Cole County, MO,976,1973,49,30,19,29051,76.1385331997229
+Coles County,Illinois,Coles County, IL,3171,10831,29,33,-4,17029,NA
+Collier County,Florida,Collier County, FL,571,2503,23,38,-15,12021,74.6514101026566
+Collin County,Texas,Collin County, TX,5374,35644,15,33,-18,48085,509.185736161159
+Colonial Heights City,Virginia,Colonial Heights City, VA,44,124,35,29,6,NA,NA
+Columbia County,Arkansas,Columbia County, AR,1553,3447,45,37,8,05027,NA
+Columbia County,Florida,Columbia County, FL,1017,3018,34,38,-4,12023,34.0740864479272
+Columbia County,Georgia,Columbia County, GA,30,51,59,40,19,13073,212.485614737592
+Columbia County,New York,Columbia County, NY,368,1445,25,36,-11,36021,NA
+Columbia County,Pennsylvania,Columbia County, PA,2298,7731,30,30,0,42037,NA
+Columbiana County,Ohio,Columbiana County, OH,852,2160,39,28,11,39029,73.5364762120638
+Columbus County,North Carolina,Columbus County, NC,545,1295,42,35,7,37047,NA
+Comal County,Texas,Comal County, TX,55,103,53,33,20,48091,120.752475969187
+Comanche County,Oklahoma,Comanche County, OK,1778,4136,43,31,12,40031,44.0748570567112
+Conecuh County,Alabama,Conecuh County, AL,127,279,46,33,13,01035,NA
+Contra Costa County,California,Contra Costa County, CA,6639,38745,17,31,-14,06013,625.345861617118
+Conway County,Arkansas,Conway County, AR,868,1836,47,37,10,05029,NA
+Cook County,Illinois,Cook County, IL,67110,199791,34,33,1,17031,2113.75651043658
+Cooke County,Texas,Cooke County, TX,1555,8352,19,33,-14,48097,NA
+Coos County,New Hampshire,Coos County, NH,273,649,42,39,3,33007,NA
+Coos County,Oregon,Coos County, OR,592,1538,38,30,8,41011,NA
+Copiah County,Mississippi,Copiah County, MS,1174,2907,40,42,-2,28029,NA
+Cortland County,New York,Cortland County, NY,1844,6256,29,36,-7,36023,NA
+Coryell County,Texas,Coryell County, TX,3113,10173,31,33,-2,48099,30.9087623778944
+Covington County,Alabama,Covington County, AL,654,1666,39,33,6,01039,NA
+Cowley County,Kansas,Cowley County, KS,1322,3747,35,27,8,20035,NA
+Cowlitz County,Washington,Cowlitz County, WA,772,2396,32,24,8,53015,37.7517990053762
+Craighead County,Arkansas,Craighead County, AR,3185,8594,37,37,0,05031,61.2588123562146
+Craven County,North Carolina,Craven County, NC,939,2843,33,35,-2,37049,55.0107945009922
+Crawford County,Illinois,Crawford County, IL,238,723,33,33,0,17033,NA
+Crawford County,Kansas,Crawford County, KS,1570,4825,33,27,6,20037,NA
+Crawford County,Michigan,Crawford County, MI,488,1330,37,30,7,26039,NA
+Crawford County,Pennsylvania,Crawford County, PA,612,1836,33,30,3,42039,31.7909130107716
+Creek County,Oklahoma,Creek County, OK,104,1319,8,31,-23,40037,29.2690636399914
+Crittenden County,Arkansas,Crittenden County, AR,400,1203,33,37,-4,05035,NA
+Cross County,Arkansas,Cross County, AR,35,37,95,37,58,05037,NA
+Crow Wing County,Minnesota,Crow Wing County, MN,725,4491,16,26,-10,27035,26.015652474519
+Cullman County,Alabama,Cullman County, AL,1900,4763,40,33,7,01043,47.0270972823876
+Culpeper County,Virginia,Culpeper County, VA,26,47,55,29,26,51047,NA
+Cumberland County,Maine,Cumberland County, ME,4511,16426,27,28,-1,23005,141.020796418823
+Cumberland County,North Carolina,Cumberland County, NC,8527,19198,44,35,9,37051,198.510728268919
+Cumberland County,New Jersey,Cumberland County, NJ,1008,2651,38,37,1,34011,122.715226691238
+Cumberland County,Pennsylvania,Cumberland County, PA,2993,10792,28,30,-2,42041,186.092980171029
+Cumberland County,Tennessee,Cumberland County, TN,387,764,51,37,14,47035,NA
+Curry County,New Mexico,Curry County, NM,1223,2321,53,35,18,35009,NA
+Custer County,Montana,Custer County, MT,175,567,31,27,4,30017,NA
+Custer County,Oklahoma,Custer County, OK,1461,4011,36,31,5,40039,NA
+Cuyahoga County,Ohio,Cuyahoga County, OH,15953,48380,33,28,5,39035,1055.13302933723
+Dade County,Georgia,Dade County, GA,175,865,20,40,-20,13083,NA
+Dakota County,Minnesota,Dakota County, MN,1575,6417,25,26,-1,27037,303.449864308509
+Dale County,Alabama,Dale County, AL,1596,3685,43,33,10,01045,NA
+Dallas County,Alabama,Dallas County, AL,654,1316,50,33,17,01047,NA
+Dallas County,Iowa,Dallas County, IA,104,272,38,26,12,19049,68.1191812607311
+Dallas County,Texas,Dallas County, TX,34698,125172,28,33,-5,48113,1144.97165449897
+Dane County,Wisconsin,Dane County, WI,9350,49086,19,25,-6,55025,181.983612547863
+Danville City,Virginia,Danville City, VA,1346,3512,38,29,9,NA,NA
+Darlington County,South Carolina,Darlington County, SC,508,953,53,33,20,45031,NA
+Dauphin County,Pennsylvania,Dauphin County, PA,5762,16444,35,30,5,42043,211.400950191074
+Davidson County,North Carolina,Davidson County, NC,1668,3765,44,35,9,37057,119.10071649135
+Davidson County,Tennessee,Davidson County, TN,13042,39666,33,37,-4,47037,539.82773382484
+Daviess County,Kentucky,Daviess County, KY,1721,5752,30,35,-5,21059,86.8097927109792
+Davis County,Utah,Davis County, UT,810,6029,13,27,-14,49011,474.221614641725
+Davison County,South Dakota,Davison County, SD,608,1943,31,25,6,46035,NA
+Dawes County,Nebraska,Dawes County, NE,637,1863,34,25,9,31045,NA
+Dawson County,Montana,Dawson County, MT,110,377,29,27,2,30021,NA
+Dearborn County,Indiana,Dearborn County, IN,61,182,34,29,5,18029,NA
+Decatur County,Iowa,Decatur County, IA,513,962,53,26,27,19053,NA
+Defiance County,Ohio,Defiance County, OH,286,562,51,28,23,39039,NA
+DeKalb County,Georgia,DeKalb County, GA,10870,22147,49,40,9,13089,1092.74806143391
+DeKalb County,Illinois,DeKalb County, IL,5947,15093,39,33,6,17037,61.408754938203
+Delaware County,Indiana,Delaware County, IN,5503,16007,34,29,5,18035,110.158896332856
+Delaware County,New York,Delaware County, NY,1333,2849,47,36,11,36025,NA
+Delaware County,Ohio,Delaware County, OH,3599,6438,56,28,28,39041,192.319192273193
+Delaware County,Pennsylvania,Delaware County, PA,10201,31458,32,30,2,42045,1205.34189470574
+Delta County,Colorado,Delta County, CO,85,313,27,30,-3,08029,NA
+Delta County,Michigan,Delta County, MI,478,1893,25,30,-5,26041,NA
+Denton County,Texas,Denton County, TX,11296,43960,26,33,-7,48121,413.808019880911
+Denver County,Arizona,Denver County, CO,1027,6399,16,35,-19,08031,1791.98675894966
+Denver County,Colorado,Denver County, CO,11712,44183,27,30,-3,08031,1791.98675894966
+Des Moines County,Iowa,Des Moines County, IA,940,2260,42,26,16,19057,NA
+Deschutes County,Oregon,Deschutes County, OR,1673,5614,30,30,0,41017,26.2043141168236
+DeSoto County,Mississippi,DeSoto County, MS,2469,3417,72,42,30,28033,152.905130607381
+Dickey County,North Dakota,Dickey County, ND,81,151,54,21,33,38021,NA
+Dickinson County,Iowa,Dickinson County, IA,20,27,74,26,48,19059,NA
+Dickson County,Tennessee,Dickson County, TN,513,1100,47,37,10,47043,NA
+Dinwiddie County,Virginia,Dinwiddie County, VA,458,2348,20,29,-9,51053,NA
+District of Columbia,District of Columbia,District of Columbia, DC,15353,53317,29,29,0,11001,4231.70610965587
+Dodge County,Nebraska,Dodge County, NE,391,1512,26,25,1,31053,NA
+Dodge County,Wisconsin,Dodge County, WI,13,31,42,25,17,55027,39.3783625075415
+Dona Ana County,New Mexico,Dona Ana County, NM,8424,18910,45,35,10,35013,22.4581872412368
+Doniphan County,Kansas,Doniphan County, KS,584,2700,22,27,-5,20043,NA
+Donley County,Texas,Donley County, TX,406,1388,29,33,-4,48129,NA
+Dorchester County,South Carolina,Dorchester County, SC,98,337,29,33,-4,45035,110.9067593693
+Dougherty County,Georgia,Dougherty County, GA,5564,9124,61,40,21,13095,99.6776882874219
+Douglas County,Colorado,Douglas County, CO,70,183,38,30,8,08035,169.554093600119
+Douglas County,Kansas,Douglas County, KS,4557,21273,21,27,-6,20045,101.120600307281
+Douglas County,Minnesota,Douglas County, MN,479,2549,19,26,-7,27041,NA
+Douglas County,Nebraska,Douglas County, NE,8798,34138,26,25,1,31055,691.989733151424
+Douglas County,Oregon,Douglas County, OR,717,2334,31,30,1,41019,8.58577754418069
+Douglas County,Wisconsin,Douglas County, WI,695,2165,32,25,7,55031,NA
+Drew County,Arkansas,Drew County, AR,1213,2352,52,37,15,05043,NA
+Dubuque County,Iowa,Dubuque County, IA,1659,4223,39,26,13,19061,62.6586818280002
+Dunn County,Wisconsin,Dunn County, WI,1662,6889,24,25,-1,55033,NA
+DuPage County,Illinois,DuPage County, IL,27048,67919,40,33,7,17043,1089.62724076938
+Duplin County,North Carolina,Duplin County, NC,462,1235,37,35,2,37061,NA
+Durham County,North Carolina,Durham County, NC,5973,17798,34,35,-1,37063,439.577576255083
+Dutchess County,New York,Dutchess County, NY,4292,21453,20,36,-16,36027,144.178927730281
+Duval County,Florida,Duval County, FL,17801,49416,36,38,-2,12031,506.041572149036
+Dyer County,Tennessee,Dyer County, TN,1411,3335,42,37,5,47045,NA
+East Baton Rouge Parish,Louisiana,East Baton Rouge Parish, LA,17168,46414,37,42,-5,22033,384.371342714318
+Eastland County,Texas,Eastland County, TX,1168,5456,21,33,-12,48133,NA
+Eaton County,Michigan,Eaton County, MI,653,1305,50,30,20,26045,73.1282364911643
+Eau Claire County,Wisconsin,Eau Claire County, WI,3723,17738,21,25,-4,55035,64.4300161297349
+Ector County,Texas,Ector County, TX,2981,10861,27,33,-6,48135,69.2769088304488
+Eddy County,New Mexico,Eddy County, NM,311,1203,26,35,-9,35015,NA
+Edgecombe County,North Carolina,Edgecombe County, NC,766,1459,53,35,18,37065,NA
+El Dorado County,California,El Dorado County, CA,583,2753,21,31,-10,06017,43.6826388404389
+El Paso County,Colorado,El Paso County, CO,25371,53254,48,30,18,08041,133.950523817244
+El Paso County,Texas,El Paso County, TX,25205,53785,47,33,14,48141,330.75489310837
+Elkhart County,Indiana,Elkhart County, IN,277,827,33,29,4,18039,172.491098503668
+Elko County,Nevada,Elko County, NV,673,3772,18,32,-14,32007,NA
+Ellis County,Kansas,Ellis County, KS,2900,12325,24,27,-3,20051,NA
+Ellis County,Texas,Ellis County, TX,878,1632,54,33,21,48139,83.6354939173801
+Elmore County,Alabama,Elmore County, AL,72,399,18,33,-15,01051,55.7533543872002
+Emanuel County,Georgia,Emanuel County, GA,1318,2415,55,40,15,13107,NA
+Emmet County,Iowa,Emmet County, IA,415,1833,23,26,-3,19063,NA
+Emmet County,Michigan,Emmet County, MI,803,1748,46,30,16,26047,NA
+Erath County,Texas,Erath County, TX,4696,11893,39,33,6,48143,NA
+Erie County,New York,Erie County, NY,23671,55108,43,36,7,36029,352.020956382585
+Erie County,Ohio,Erie County, OH,872,2876,30,28,2,39043,114.942183492036
+Erie County,Pennsylvania,Erie County, PA,3439,10002,34,30,4,42049,129.980969679748
+Escambia County,Florida,Escambia County, FL,7043,20706,34,38,-4,12033,189.469038053993
+Essex County,Massachusetts,Essex County, MA,8151,25444,32,27,5,25009,632.749756948175
+Essex County,New Jersey,Essex County, NJ,16900,36983,46,37,9,34013,2617.96805989366
+Essex County,New York,Essex County, NY,535,1602,33,36,-3,36031,NA
+Etowah County,Alabama,Etowah County, AL,1806,3994,45,33,12,01055,74.4113994253457
+Fairbanks North Star Borough,Alaska,Fairbanks North Star Borough, AK,1274,5850,22,21,1,02090,5.03561951466321
+Fairfax County,Virginia,Fairfax County, VA,20169,83262,24,29,-5,51059,1125.44451402179
+Fairfield County,Connecticut,Fairfield County, CT,11899,33112,36,38,-2,09001,592.942979197125
+Fairfield County,Ohio,Fairfield County, OH,329,2516,13,28,-15,39045,123.287009786643
+Fajardo Municipio,Puerto Rico,Fajardo Municipio, PR,1250,1512,83,73,10,NA,NA
+Faulkner County,Arkansas,Faulkner County, AR,3801,10384,37,37,0,05045,74.5497426245308
+Fayette County,Iowa,Fayette County, IA,1351,3067,44,26,18,19065,NA
+Fayette County,Kentucky,Fayette County, KY,9343,34186,27,35,-8,21067,438.042461471143
+Fayette County,Pennsylvania,Fayette County, PA,283,450,63,30,33,42051,62.0092837166556
+Fayette County,West Virginia,Fayette County, WV,25,29,86,32,54,54019,NA
+Finney County,Kansas,Finney County, KS,583,1868,31,27,4,20055,NA
+Flagler County,Florida,Flagler County, FL,32,198,16,38,-22,12035,96.2436119528174
+Flathead County,Montana,Flathead County, MT,501,2155,23,27,-4,30029,8.23137433893518
+Florence County,South Carolina,Florence County, SC,3383,7211,47,33,14,45041,65.8386095266894
+Floyd County,Georgia,Floyd County, GA,6065,15600,39,40,-1,13115,74.8018936548738
+Floyd County,Indiana,Floyd County, IN,1364,4090,33,29,4,18043,209.938112877748
+Floyd County,Kentucky,Floyd County, KY,1389,2426,57,35,22,21071,NA
+Fond du Lac County,Wisconsin,Fond du Lac County, WI,1536,5614,27,25,2,55039,55.9982199646718
+Ford County,Kansas,Ford County, KS,410,1459,28,27,1,20057,NA
+Forrest County,Mississippi,Forrest County, MS,6105,14833,41,42,-1,28035,64.5171775023695
+Forsyth County,Georgia,Forsyth County, GA,15,34,44,40,4,13117,447.408008436222
+Forsyth County,North Carolina,Forsyth County, NC,7332,19943,37,35,2,37067,365.026760536821
+Fort Bend County,Texas,Fort Bend County, TX,813,1356,60,33,27,48157,384.733225346005
+Franklin City,Virginia,Franklin City, VA,307,1237,25,29,-4,NA,NA
+Franklin County,Georgia,Franklin County, GA,306,884,35,40,-5,13119,NA
+Franklin County,Kansas,Franklin County, KS,375,883,42,27,15,20059,NA
+Franklin County,Kentucky,Franklin County, KY,989,2148,46,35,11,21073,NA
+Franklin County,Massachusetts,Franklin County, MA,619,1620,38,27,11,25011,39.213596905197
+Franklin County,Maine,Franklin County, ME,705,1583,45,28,17,23007,NA
+Franklin County,Missouri,Franklin County, MO,971,2665,36,30,6,29071,44.0317768644101
+Franklin County,North Carolina,Franklin County, NC,342,488,70,35,35,37069,56.2925242344702
+Franklin County,New York,Franklin County, NY,283,668,42,36,6,36033,NA
+Franklin County,Ohio,Franklin County, OH,24609,93993,26,28,-2,39049,958.279366782462
+Franklin County,Pennsylvania,Franklin County, PA,312,1161,27,30,-3,42055,78.1425931644416
+Franklin County,Tennessee,Franklin County, TN,273,1716,16,37,-21,47051,NA
+Franklin County,Virginia,Franklin County, VA,525,960,55,29,26,51067,NA
+Franklin County,Washington,Franklin County, WA,1730,6745,26,24,2,53021,30.5586449903991
+Frederick County,Maryland,Frederick County, MD,2110,9289,23,29,-6,24021,163.588230145237
+Frederick County,Virginia,Frederick County, VA,826,6337,13,29,-16,51069,87.5776622489804
+Fredericksburg City,Virginia,Fredericksburg City, VA,795,3993,20,29,-9,NA,NA
+Fremont County,Wyoming,Fremont County, WY,371,1745,21,21,0,56013,NA
+Fresno County,California,Fresno County, CA,28818,75134,38,31,7,06019,65.6830055737254
+Frontier County,Nebraska,Frontier County, NE,93,282,33,25,8,31063,NA
+Fulton County,Georgia,Fulton County, GA,35215,82640,43,40,3,13121,780.894362938984
+Fulton County,Illinois,Fulton County, IL,505,1352,37,33,4,17057,NA
+Gadsden County,Florida,Gadsden County, FL,4,68,6,38,-32,12039,NA
+Gallatin County,Montana,Gallatin County, MT,2903,14277,20,27,-7,30031,18.1879007992842
+Gallia County,Ohio,Gallia County, OH,894,1715,52,28,24,39053,NA
+Galveston County,Texas,Galveston County, TX,1785,7123,25,33,-8,48167,361.775841124449
+Garfield County,Colorado,Garfield County, CO,662,5315,12,30,-18,08045,NA
+Garfield County,Oklahoma,Garfield County, OK,125,724,17,31,-14,40047,NA
+Garland County,Arkansas,Garland County, AR,1570,2100,75,37,38,05051,57.1586344267281
+Garrett County,Maryland,Garrett County, MD,224,624,36,29,7,24023,NA
+Gaston County,North Carolina,Gaston County, NC,2812,7324,38,35,3,37071,250.573288045
+Geauga County,Ohio,Geauga County, OH,355,1530,23,28,-5,39055,92.1752009428061
+Genesee County,Michigan,Genesee County, MI,4540,13495,34,30,4,26049,245.014978717297
+Genesee County,New York,Genesee County, NY,1411,4915,29,36,-7,36037,NA
+Gibson County,Indiana,Gibson County, IN,201,1102,18,29,-11,18051,NA
+Gibson County,Tennessee,Gibson County, TN,52,101,51,37,14,47053,NA
+Giles County,Tennessee,Giles County, TN,555,1652,34,37,-3,47055,NA
+Gilmer County,West Virginia,Gilmer County, WV,787,1583,50,32,18,54021,NA
+Glacier County,Montana,Glacier County, MT,214,417,51,27,24,30035,NA
+Gloucester County,New Jersey,Gloucester County, NJ,6800,22505,30,37,-7,34015,365.122128643459
+Gloucester County,Virginia,Gloucester County, VA,545,2629,21,29,-8,51073,NA
+Glynn County,Georgia,Glynn County, GA,1345,3457,39,40,-1,13127,77.9831772932954
+Gogebic County,Michigan,Gogebic County, MI,290,895,32,30,2,26053,NA
+Goshen County,Wyoming,Goshen County, WY,207,1430,14,21,-7,56015,NA
+Grady County,Oklahoma,Grady County, OK,343,733,47,31,16,40051,NA
+Grafton County,New Hampshire,Grafton County, NH,1832,7934,23,39,-16,33009,20.8352086700891
+Graham County,Arizona,Graham County, AZ,928,4392,21,35,-14,04009,NA
+Grand Forks County,North Dakota,Grand Forks County, ND,1729,9870,18,21,-3,38035,19.5473404847823
+Grand Traverse County,Michigan,Grand Traverse County, MI,944,3278,29,30,-1,26055,79.7084549095494
+Grant County,Indiana,Grant County, IN,3892,11248,35,29,6,18053,61.7857994281579
+Grant County,New Mexico,Grant County, NM,821,1874,44,35,9,35017,NA
+Grant County,Washington,Grant County, WA,547,1892,29,24,5,53025,14.4523223850062
+Grant County,Wisconsin,Grant County, WI,2112,9472,22,25,-3,55043,NA
+Gratiot County,Michigan,Gratiot County, MI,357,1435,25,30,-5,26057,NA
+Grays Harbor County,Washington,Grays Harbor County, WA,515,1553,33,24,9,53027,15.6040660313794
+Grayson County,Texas,Grayson County, TX,2281,5453,42,33,9,48181,57.6717065356885
+Greene County,Arkansas,Greene County, AR,111,191,58,37,21,05055,NA
+Greene County,Missouri,Greene County, MO,12134,37984,32,30,2,29077,172.013177330544
+Greene County,Ohio,Greene County, OH,6646,17142,39,28,11,39057,157.206048804702
+Greene County,Pennsylvania,Greene County, PA,410,1269,32,30,2,42059,NA
+Greene County,Tennessee,Greene County, TN,584,1353,43,37,6,47059,43.8256007243218
+Greenville County,South Carolina,Greenville County, SC,6735,20422,33,33,0,45045,262.545342665465
+Greenwood County,South Carolina,Greenwood County, SC,3707,8150,45,33,12,45047,58.7918010376158
+Gregg County,Texas,Gregg County, TX,2541,8014,32,33,-1,48183,175.412208804414
+Grenada County,Mississippi,Grenada County, MS,37,49,76,42,34,28043,NA
+Grundy County,Missouri,Grundy County, MO,594,1591,37,30,7,29079,NA
+Guadalupe County,Texas,Guadalupe County, TX,574,1491,38,33,5,48187,96.1036882776042
+Guam,Guam,Guam, GU,2638,4979,53,53,0,NA,NA
+Guayama Municipio,Puerto Rico,Guayama Municipio, PR,1530,1933,79,73,6,NA,NA
+Guaynabo Municipio,Puerto Rico,Guaynabo Municipio, PR,1205,1489,81,73,8,NA,NA
+Guilford County,North Carolina,Guilford County, NC,24511,51683,47,35,12,37081,324.243385433742
+Gunnison County,Colorado,Gunnison County, CO,460,2749,17,30,-13,08051,NA
+Gurabo Municipio,Puerto Rico,Gurabo Municipio, PR,8427,10896,77,73,4,NA,NA
+Gwinnett County,Georgia,Gwinnett County, GA,10807,22982,47,40,7,13135,864.964832982848
+Habersham County,Georgia,Habersham County, GA,1755,3826,46,40,6,13137,NA
+Hale County,Texas,Hale County, TX,1105,3015,37,33,4,48189,NA
+Halifax County,North Carolina,Halifax County, NC,297,988,30,35,-5,37083,NA
+Hall County,Georgia,Hall County, GA,2302,6807,34,40,-6,13139,203.737577146453
+Hall County,Nebraska,Hall County, NE,1362,5974,23,25,-2,31079,NA
+Hamblen County,Tennessee,Hamblen County, TN,2366,6837,35,37,-2,47063,NA
+Hamilton County,Indiana,Hamilton County, IN,610,1298,47,29,18,18057,349.209317453298
+Hamilton County,Ohio,Hamilton County, OH,13816,56959,24,28,-4,39061,785.755956586679
+Hamilton County,Tennessee,Hamilton County, TN,7886,21901,36,37,-1,47065,262.794181368406
+Hampden County,Massachusetts,Hampden County, MA,8551,22634,38,27,11,25013,289.561297394112
+Hampshire County,Massachusetts,Hampshire County, MA,6621,30598,22,27,-5,25015,118.322123480425
+Hampton City,Virginia,Hampton City, VA,2490,9516,26,29,-3,NA,NA
+Hancock County,Maine,Hancock County, ME,376,1294,29,28,1,23009,NA
+Hancock County,Ohio,Hancock County, OH,589,3732,16,28,-12,39063,54.252074581935
+Hancock County,West Virginia,Hancock County, WV,7,25,28,32,-4,54029,NA
+Hanover County,Virginia,Hanover County, VA,309,1576,20,29,-9,51085,92.0954889811898
+Haralson County,Georgia,Haralson County, GA,2587,6437,40,40,0,13143,NA
+Hardin County,Iowa,Hardin County, IA,300,735,41,26,15,19083,NA
+Hardin County,Kentucky,Hardin County, KY,2064,6035,34,35,-1,21093,69.1249158691517
+Hardin County,Ohio,Hardin County, OH,481,2130,23,28,-5,39065,NA
+Hardin County,Tennessee,Hardin County, TN,285,1152,25,37,-12,47071,NA
+Hardin County,Texas,Hardin County, TX,68,102,67,33,34,48199,NA
+Hardy County,West Virginia,Hardy County, WV,124,374,33,32,1,54031,NA
+Harford County,Maryland,Harford County, MD,1228,5507,22,29,-7,24025,232.284191738251
+Harlan County,Kentucky,Harlan County, KY,1039,2505,41,35,6,21095,NA
+Harnett County,North Carolina,Harnett County, NC,1277,3763,34,35,-1,37085,88.2259619463684
+Harris County,Texas,Harris County, TX,72411,187886,39,33,6,48201,1070.54869263351
+Harrison County,Mississippi,Harrison County, MS,463,675,69,42,27,28047,140.938544075507
+Harrison County,Texas,Harrison County, TX,978,2180,45,33,12,48203,29.6669809059926
+Harrison County,West Virginia,Harrison County, WV,703,1070,66,32,34,54033,60.4739911854373
+Harrisonburg City,Virginia,Harrisonburg City, VA,3129,20622,15,29,-14,NA,NA
+Hartford County,Connecticut,Hartford County, CT,15791,38658,41,38,3,09003,471.149628549911
+Harvey County,Kansas,Harvey County, KS,300,843,36,27,9,20079,NA
+Hawaii County,Hawaii,Hawaii County, HI,1944,5138,38,25,13,15001,19.4472917851896
+Hays County,Texas,Hays County, TX,11994,33259,36,33,3,48209,145.444239676722
+Haywood County,North Carolina,Haywood County, NC,485,1440,34,35,-1,37087,NA
+Hempstead County,Arkansas,Hempstead County, AR,526,1199,44,37,7,05057,NA
+Henderson County,Kentucky,Henderson County, KY,442,1331,33,35,-2,21101,NA
+Henderson County,North Carolina,Henderson County, NC,624,2401,26,35,-9,37089,120.955406264061
+Henderson County,Tennessee,Henderson County, TN,82,103,80,37,43,47077,NA
+Henderson County,Texas,Henderson County, TX,1665,5997,28,33,-5,48213,36.9707127264082
+Hennepin County,Minnesota,Hennepin County, MN,24742,90352,27,26,1,27053,883.549848275757
+Henrico County,Virginia,Henrico County, VA,3044,9380,32,29,3,51087,551.164629365424
+Henry County,Iowa,Henry County, IA,346,677,51,26,25,19087,NA
+Henry County,Missouri,Henry County, MO,23,33,70,30,40,29083,NA
+Henry County,Ohio,Henry County, OH,568,3989,14,28,-14,39069,NA
+Henry County,Tennessee,Henry County, TN,205,370,55,37,18,47079,NA
+Henry County,Virginia,Henry County, VA,896,2050,44,29,15,51089,NA
+Herkimer County,New York,Herkimer County, NY,898,2303,39,36,3,36043,NA
+Hernando County,Florida,Hernando County, FL,235,313,75,38,37,12053,163.854993846234
+Hertford County,North Carolina,Hertford County, NC,930,1625,57,35,22,37091,NA
+Hidalgo County,Texas,Hidalgo County, TX,31175,61236,51,33,18,48215,216.377559513869
+Highland County,Ohio,Highland County, OH,471,2018,23,28,-5,39071,NA
+Highlands County,Florida,Highlands County, FL,1209,2742,44,38,6,12055,39.2049565913901
+Hill County,Montana,Hill County, MT,362,988,37,27,10,30041,NA
+Hill County,Texas,Hill County, TX,1248,4038,31,33,-2,48217,NA
+Hillsborough County,Florida,Hillsborough County, FL,27179,75348,36,38,-2,12057,558.530959133051
+Hillsborough County,New Hampshire,Hillsborough County, NH,2030,8152,25,39,-14,33011,186.799843393633
+Hillsdale County,Michigan,Hillsdale County, MI,25,1500,2,30,-28,26059,NA
+Hinds County,Mississippi,Hinds County, MS,10400,21470,48,42,6,28049,98.8499529618957
+Hockley County,Texas,Hockley County, TX,3272,8880,37,33,4,48219,NA
+Holmes County,Mississippi,Holmes County, MS,2286,5409,42,42,0,28051,NA
+Honolulu County,Hawaii,Honolulu County, HI,10367,44662,23,25,-2,15003,643.471486734612
+Hopkins County,Kentucky,Hopkins County, KY,1054,3104,34,35,-1,21107,NA
+Horry County,South Carolina,Horry County, SC,5980,16723,36,33,3,45051,124.506564716152
+Hot Spring County,Arkansas,Hot Spring County, AR,275,1243,22,37,-15,05059,NA
+Houghton County,Michigan,Houghton County, MI,1341,6042,22,30,-8,26061,NA
+Houston County,Alabama,Houston County, AL,222,282,79,33,46,01069,71.5502023304063
+Houston County,Georgia,Houston County, GA,3444,8140,42,40,2,13153,171.285315142233
+Howard County,Indiana,Howard County, IN,1278,3349,38,29,9,18067,110.278882375585
+Howard County,Maryland,Howard County, MD,2974,11053,27,29,-2,24027,514.704412655989
+Howard County,Missouri,Howard County, MO,1269,4344,29,30,-1,29089,NA
+Howard County,Texas,Howard County, TX,895,3722,24,33,-9,48227,NA
+Howell County,Missouri,Howell County, MO,617,2030,30,30,0,29091,NA
+Hudson County,New Jersey,Hudson County, NJ,10184,20563,50,37,13,34017,5871.85714129999
+Hughes County,Oklahoma,Hughes County, OK,44,185,24,31,-7,40063,NA
+Humacao Municipio,Puerto Rico,Humacao Municipio, PR,3140,3946,80,73,7,NA,NA
+Humboldt County,California,Humboldt County, CA,4383,9998,44,31,13,06023,14.7497262798256
+Hunt County,Texas,Hunt County, TX,3346,8431,40,33,7,48231,47.5053517930227
+Huntingdon County,Pennsylvania,Huntingdon County, PA,356,1360,26,30,-4,42061,NA
+Huntington County,Indiana,Huntington County, IN,373,1150,32,29,3,18069,NA
+Huron County,Ohio,Huron County, OH,114,226,50,28,22,39077,NA
+Hutchinson County,Texas,Hutchinson County, TX,349,1575,22,33,-11,48233,NA
+Iberia Parish,Louisiana,Iberia Parish, LA,13,43,30,42,-12,22045,46.3886213787436
+Imperial County,California,Imperial County, CA,3738,7398,51,31,20,06025,16.6262484628972
+Independence County,Arkansas,Independence County, AR,778,1882,41,37,4,05063,NA
+Indian River County,Florida,Indian River County, FL,46,161,29,38,-9,12061,125.680787056397
+Indiana County,Pennsylvania,Indiana County, PA,2905,8167,36,30,6,42063,38.6750262986889
+Ingham County,Michigan,Ingham County, MI,11620,50282,23,30,-7,26065,197.195940158582
+Ionia County,Michigan,Ionia County, MI,10,52,19,30,-11,26067,45.4123406879172
+Iredell County,North Carolina,Iredell County, NC,1686,5083,33,35,-2,37097,129.084555915513
+Iron County,Utah,Iron County, UT,3190,12181,26,27,-1,49021,NA
+Isabela Municipio,Puerto Rico,Isabela Municipio, PR,60,81,74,73,1,NA,NA
+Isabella County,Michigan,Isabella County, MI,4433,13218,34,30,4,26073,NA
+Itasca County,Minnesota,Itasca County, MN,289,1058,27,26,1,27061,NA
+Itawamba County,Mississippi,Itawamba County, MS,2191,4948,44,42,2,28057,NA
+Izard County,Arkansas,Izard County, AR,569,1033,55,37,18,05065,NA
+Jackson County,Alabama,Jackson County, AL,990,2530,39,33,6,01071,NA
+Jackson County,Arkansas,Jackson County, AR,739,1941,38,37,1,05067,NA
+Jackson County,Florida,Jackson County, FL,727,2333,31,38,-7,12063,NA
+Jackson County,Illinois,Jackson County, IL,2867,8299,35,33,2,17077,NA
+Jackson County,Michigan,Jackson County, MI,1889,5490,34,30,4,26075,88.0429919920451
+Jackson County,Missouri,Jackson County, MO,9355,31138,30,30,0,29095,457.856969026873
+Jackson County,North Carolina,Jackson County, NC,4291,12776,34,35,-1,37099,NA
+Jackson County,Oklahoma,Jackson County, OK,582,1740,33,31,2,40065,NA
+Jackson County,Oregon,Jackson County, OR,1394,5183,27,30,-3,41029,31.0371035930219
+Jackson County,West Virginia,Jackson County, WV,20,33,61,32,29,54035,NA
+Jasper County,Missouri,Jasper County, MO,2536,5933,43,30,13,29097,74.4712754863246
+Jasper County,Texas,Jasper County, TX,70,79,89,33,56,48241,NA
+Jefferson County,Alabama,Jefferson County, AL,12762,34575,37,33,4,01073,232.005583683962
+Jefferson County,Arkansas,Jefferson County, AR,2547,3811,67,37,30,05069,29.2294331363805
+Jefferson County,Colorado,Jefferson County, CO,6326,20377,31,30,1,08059,292.791413327634
+Jefferson County,Iowa,Jefferson County, IA,250,541,46,26,20,19101,NA
+Jefferson County,Illinois,Jefferson County, IL,527,1802,29,33,-4,17081,NA
+Jefferson County,Indiana,Jefferson County, IN,304,1041,29,29,0,18077,NA
+Jefferson County,Kentucky,Jefferson County, KY,13850,41669,33,35,-2,21111,788.942369138982
+Jefferson County,Missouri,Jefferson County, MO,1134,3740,30,30,0,29099,133.955730670102
+Jefferson County,New York,Jefferson County, NY,1027,2687,38,36,2,36045,35.3920603223986
+Jefferson County,Ohio,Jefferson County, OH,14147,42590,33,28,5,39081,NA
+Jefferson County,Pennsylvania,Jefferson County, PA,71,155,46,30,16,42065,NA
+Jefferson County,Tennessee,Jefferson County, TN,747,1722,43,37,6,47089,NA
+Jefferson County,Texas,Jefferson County, TX,5952,15680,38,33,5,48245,111.774067837266
+Jefferson County,Washington,Jefferson County, WA,8,27,30,24,6,53031,NA
+Jefferson County,Wisconsin,Jefferson County, WI,272,716,38,25,13,55055,58.9374437799645
+Jefferson County,West Virginia,Jefferson County, WV,10334,43177,24,32,-8,54037,NA
+Jefferson Parish,Louisiana,Jefferson Parish, LA,2509,3608,70,42,28,22051,566.355758700609
+Jerome County,Idaho,Jerome County, ID,11,23,48,27,21,16053,NA
+Jersey County,Illinois,Jersey County, IL,0,340,0,33,-33,17083,NA
+Jessamine County,Kentucky,Jessamine County, KY,499,1571,32,35,-3,21113,NA
+Johnson County,Arkansas,Johnson County, AR,296,836,35,37,-2,05071,NA
+Johnson County,Iowa,Johnson County, IA,4233,22416,19,26,-7,19103,97.4704580702117
+Johnson County,Indiana,Johnson County, IN,358,938,38,29,9,18081,197.962303540008
+Johnson County,Kansas,Johnson County, KS,5810,21626,27,27,0,20091,499.914580598778
+Johnson County,Kentucky,Johnson County, KY,58,62,94,35,59,21115,NA
+Johnson County,Missouri,Johnson County, MO,2254,7648,29,30,-1,29101,NA
+Johnson County,Texas,Johnson County, TX,341,745,46,33,13,48251,99.7643608731926
+Johnston County,North Carolina,Johnston County, NC,1020,4182,24,35,-11,37101,110.528477296389
+Johnston County,Oklahoma,Johnston County, OK,754,2172,35,31,4,40069,NA
+Jones County,Iowa,Jones County, IA,19,41,46,26,20,19105,NA
+Jones County,Mississippi,Jones County, MS,2187,4694,47,42,5,28067,37.0891894442329
+Josephine County,Oregon,Josephine County, OR,1321,3483,38,30,8,41033,20.8162738778149
+Juana Díaz,Puerto Rico,Juana Díaz, PR,427,553,77,73,4,NA,NA
+Juneau City and Borough,Alaska,Juneau City and Borough, AK,295,1805,16,21,-5,02110,NA
+Kalamazoo County,Michigan,Kalamazoo County, MI,6742,24406,28,30,-2,26077,179.357064273395
+Kanawha County,West Virginia,Kanawha County, WV,2771,8142,34,32,2,54039,76.2036678015952
+Kandiyohi County,Minnesota,Kandiyohi County, MN,1070,3176,34,26,8,27067,NA
+Kane County,Illinois,Kane County, IL,6182,20737,30,33,-3,17089,383.298598790442
+Kankakee County,Illinois,Kankakee County, IL,1925,5372,36,33,3,17091,60.8411156941874
+Kauai County,Hawaii,Kauai County, HI,384,1461,26,25,1,15007,45.7516980032901
+Kaufman County,Texas,Kaufman County, TX,72,84,86,33,53,48257,78.0280345289602
+Kay County,Oklahoma,Kay County, OK,1605,3822,42,31,11,40071,NA
+Kemper County,Mississippi,Kemper County, MS,1505,3392,44,42,2,28069,NA
+Kenai Peninsula Borough,Alaska,Kenai Peninsula Borough, AK,115,894,13,21,-8,02122,NA
+Kendall County,Illinois,Kendall County, IL,58,179,32,33,-1,17093,162.594573205177
+Kennebec County,Maine,Kennebec County, ME,2310,8235,28,28,0,23011,55.4075144574997
+Kenosha County,Wisconsin,Kenosha County, WI,4893,15230,32,25,7,55059,239.63845696063
+Kent County,Delaware,Kent County, DE,6489,17758,37,26,11,10001,121.371671476457
+Kent County,Maryland,Kent County, MD,272,1089,25,29,-4,24029,NA
+Kent County,Michigan,Kent County, MI,7480,25619,29,30,-1,26081,299.59702059535
+Kent County,Rhode Island,Kent County, RI,6669,15527,43,30,13,44003,391.043008424853
+Kenton County,Kentucky,Kenton County, KY,694,2128,33,35,-2,21117,408.297813125886
+Kern County,California,Kern County, CA,18016,48349,37,31,6,06029,43.5691352603695
+Kerr County,Texas,Kerr County, TX,441,1205,37,33,4,48265,NA
+Kershaw County,South Carolina,Kershaw County, SC,18,37,49,33,16,45055,35.1465160355621
+King County,Washington,King County, WA,20412,109528,19,24,-5,53033,411.109517778545
+Kingfisher County,Oklahoma,Kingfisher County, OK,24,193,12,31,-19,40073,NA
+Kings County,California,Kings County, CA,1593,4155,38,31,7,06031,42.6125938796741
+Kings County,New York,Kings County, NY,36494,74793,49,36,13,36047,14699.3517190347
+Kiowa County,Kansas,Kiowa County, KS,91,166,55,27,28,20097,NA
+Kitsap County,Washington,Kitsap County, WA,800,5357,15,24,-9,53035,268.046767175205
+Kittitas County,Washington,Kittitas County, WA,3442,10517,33,24,9,53037,NA
+Klamath County,Oregon,Klamath County, OR,1852,6766,27,30,-3,41035,4.55857861137864
+Kleberg County,Texas,Kleberg County, TX,2780,5675,49,33,16,48273,NA
+Knott County,Kentucky,Knott County, KY,337,570,59,35,24,21119,NA
+Knox County,Illinois,Knox County, IL,1185,2909,41,33,8,17095,NA
+Knox County,Indiana,Knox County, IN,2017,16104,13,29,-16,18083,NA
+Knox County,Kentucky,Knox County, KY,527,947,56,35,21,21121,NA
+Knox County,Maine,Knox County, ME,2,8,25,28,-3,23013,NA
+Knox County,Ohio,Knox County, OH,849,3554,24,28,-4,39083,NA
+Knox County,Tennessee,Knox County, TN,12417,41479,30,37,-7,47093,369.654613830561
+Koochiching County,Minnesota,Koochiching County, MN,64,173,37,26,11,27071,NA
+Kootenai County,Idaho,Kootenai County, ID,1194,4737,25,27,-2,16055,56.0818204691765
+Kosciusko County,Indiana,Kosciusko County, IN,484,1588,30,29,1,18085,58.1991394635396
+La Crosse County,Wisconsin,La Crosse County, WI,3275,15256,21,25,-4,55063,102.927441360337
+La Plata County,Colorado,La Plata County, CO,1213,3346,36,30,6,08067,NA
+Labette County,Kansas,Labette County, KS,388,1464,27,27,0,20099,NA
+Lackawanna County,Pennsylvania,Lackawanna County, PA,3160,9114,35,30,5,42069,181.501459574272
+Lafayette County,Missouri,Lafayette County, MO,16,30,53,30,23,29107,NA
+Lafayette County,Mississippi,Lafayette County, MS,3857,16179,24,42,-18,28071,NA
+Lafayette Parish,Louisiana,Lafayette Parish, LA,9442,22839,41,42,-1,22055,350.848907669664
+Lafourche Parish,Louisiana,Lafourche Parish, LA,2225,6134,36,42,-6,22057,35.2377759389465
+Lake County,Florida,Lake County, FL,1748,6283,28,38,-10,12069,160.745892195164
+Lake County,Illinois,Lake County, IL,3505,14549,24,33,-9,17097,618.574614990335
+Lake County,Indiana,Lake County, IN,5069,13601,37,29,8,18089,385.898251915317
+Lake County,Montana,Lake County, MT,438,716,61,27,34,30047,NA
+Lake County,Ohio,Lake County, OH,1881,6838,28,28,0,39085,390.737925960132
+Lake County,South Dakota,Lake County, SD,546,2740,20,25,-5,46079,NA
+Lamar County,Georgia,Lamar County, GA,1514,3231,47,40,7,13171,NA
+Lamar County,Texas,Lamar County, TX,1280,4421,29,33,-4,48277,NA
+Lamoille County,Vermont,Lamoille County, VT,696,1706,41,22,19,50015,NA
+Lancaster County,Nebraska,Lancaster County, NE,7870,33231,24,25,-1,31109,149.59473827759
+Lancaster County,Pennsylvania,Lancaster County, PA,4647,16356,28,30,-2,42071,226.47940089075
+Lancaster County,South Carolina,Lancaster County, SC,294,1810,16,33,-17,45057,70.5557894558453
+Lane County,Oregon,Lane County, OR,7495,26572,28,30,-2,41039,32.4693682482347
+Laramie County,Wyoming,Laramie County, WY,883,3881,23,21,2,56021,14.4994038555363
+Larimer County,Colorado,Larimer County, CO,5636,25247,22,30,-8,08069,53.9242237720267
+Las Animas County,Colorado,Las Animas County, CO,538,1404,38,30,8,08071,NA
+LaSalle County,Illinois,LaSalle County, IL,739,2484,30,33,-3,17099,37.0614586582337
+Lassen County,California,Lassen County, CA,178,1820,10,31,-21,06035,NA
+Latah County,Idaho,Latah County, ID,2396,8380,29,27,2,16057,NA
+Latimer County,Oklahoma,Latimer County, OK,601,1342,45,31,14,40077,NA
+Lauderdale County,Alabama,Lauderdale County, AL,2063,6016,34,33,1,01077,54.3555257697855
+Lauderdale County,Mississippi,Lauderdale County, MS,1124,3003,37,42,-5,28075,39.5553573544336
+Lauderdale County,Tennessee,Lauderdale County, TN,195,342,57,37,20,47097,NA
+Laurens County,South Carolina,Laurens County, SC,307,1048,29,33,-4,45059,36.6775730754934
+Lawrence County,Arkansas,Lawrence County, AR,297,583,51,37,14,05075,NA
+Lawrence County,Ohio,Lawrence County, OH,852,3103,27,28,-1,39087,NA
+Lawrence County,Pennsylvania,Lawrence County, PA,1040,2224,47,30,17,42073,92.1618855464809
+Lawrence County,South Dakota,Lawrence County, SD,757,3413,22,25,-3,46081,NA
+Lawrence County,Tennessee,Lawrence County, TN,12,20,60,37,23,47099,NA
+Le Flore County,Oklahoma,Le Flore County, OK,843,1922,44,31,13,40079,NA
+Lea County,New Mexico,Lea County, NM,697,1786,39,35,4,35025,6.41858289635647
+Leavenworth County,Kansas,Leavenworth County, KS,312,810,39,27,12,20103,68.4744787800645
+Lebanon County,Pennsylvania,Lebanon County, PA,483,1933,25,30,-5,42075,153.129125537236
+Lee County,Alabama,Lee County, AL,3188,24505,13,33,-20,01081,112.623124799997
+Lee County,Florida,Lee County, FL,11416,33844,34,38,-4,12071,389.044524439899
+Lee County,Illinois,Lee County, IL,468,1386,34,33,1,17103,NA
+Lee County,North Carolina,Lee County, NC,1532,5450,28,35,-7,37105,NA
+Leflore County,Mississippi,Leflore County, MS,1103,1694,65,42,23,28083,NA
+Lehigh County,Pennsylvania,Lehigh County, PA,4990,14263,35,30,5,42077,420.032235082456
+Lenawee County,Michigan,Lenawee County, MI,1180,3659,32,30,2,26091,50.9677494473069
+Lenoir County,North Carolina,Lenoir County, NC,963,2361,41,35,6,37107,NA
+Leon County,Florida,Leon County, FL,17643,54245,33,38,-5,12073,169.543958308194
+Letcher County,Kentucky,Letcher County, KY,34,43,79,35,44,21133,NA
+Lewis and Clark County,Montana,Lewis and Clark County, MT,476,2348,20,27,-7,30049,8.06315417281895
+Lewis County,Missouri,Lewis County, MO,371,954,39,30,9,29111,NA
+Lewis County,Tennessee,Lewis County, TN,289,892,32,37,-5,47101,NA
+Lewis County,Washington,Lewis County, WA,691,2362,29,24,5,53041,13.5619398760591
+Lexington City,Virginia,Lexington City, VA,425,3520,12,29,-17,NA,NA
+Lexington County,South Carolina,Lexington County, SC,3759,9292,40,33,7,45063,165.787086878785
+Licking County,Ohio,Licking County, OH,2492,8740,29,28,1,39089,102.065333011964
+Limestone County,Alabama,Limestone County, AL,3324,10966,30,33,-3,01083,74.1354474973601
+Lincoln County,Nebraska,Lincoln County, NE,481,2075,23,25,-2,31111,NA
+Lincoln County,New Mexico,Lincoln County, NM,90,553,16,35,-19,35027,NA
+Lincoln County,Oregon,Lincoln County, OR,123,417,29,30,-1,41041,NA
+Lincoln County,Tennessee,Lincoln County, TN,37,65,57,37,20,47103,NA
+Lincoln Parish,Louisiana,Lincoln Parish, LA,6128,14525,42,42,0,22061,NA
+Linn County,Iowa,Linn County, IA,4613,16284,28,26,2,19113,123.267576856232
+Linn County,Oregon,Linn County, OR,1369,4949,28,30,-2,41043,21.9187976557437
+Litchfield County,Connecticut,Litchfield County, CT,432,1228,35,38,-3,09005,77.5968644679139
+Livingston County,Michigan,Livingston County, MI,198,674,29,30,-1,26093,133.20806981446
+Livingston County,Missouri,Livingston County, MO,20,59,34,30,4,29117,NA
+Livingston County,New York,Livingston County, NY,1260,4932,26,36,-10,36051,NA
+Livingston Parish,Louisiana,Livingston Parish, LA,38,81,47,42,5,22063,86.8681476583237
+Logan County,Colorado,Logan County, CO,529,1293,41,30,11,08075,NA
+Logan County,Illinois,Logan County, IL,673,1275,53,33,20,17107,NA
+Logan County,Oklahoma,Logan County, OK,1184,1894,63,31,32,40083,NA
+Logan County,West Virginia,Logan County, WV,897,1501,60,32,28,54045,NA
+Lorain County,Ohio,Lorain County, OH,3391,13322,25,28,-3,39093,248.062688333487
+Los Alamos County,New Mexico,Los Alamos County, NM,78,928,8,35,-27,35028,NA
+Los Angeles County,California,Los Angeles County, CA,223802,658806,34,31,3,06037,935.196551608121
+Loudoun County,Virginia,Loudoun County, VA,0,340,0,29,-29,51107,320.095045033776
+Lowndes County,Georgia,Lowndes County, GA,6533,13279,49,40,9,13185,92.6327628186709
+Lowndes County,Mississippi,Lowndes County, MS,1034,2418,43,42,1,28087,NA
+Lubbock County,Texas,Lubbock County, TX,9291,36752,25,33,-8,48303,135.562432426362
+Lucas County,Ohio,Lucas County, OH,7310,20558,36,28,8,39095,486.370659823978
+Lumpkin County,Georgia,Lumpkin County, GA,5313,19019,28,40,-12,13187,NA
+Luzerne County,Pennsylvania,Luzerne County, PA,3771,10969,34,30,4,42079,141.394318151635
+Lycoming County,Pennsylvania,Lycoming County, PA,2071,5630,37,30,7,42081,35.6973126742197
+Lynchburg City,Virginia,Lynchburg City, VA,20817,54371,38,29,9,NA,NA
+Lyon County,Kansas,Lyon County, KS,1223,4403,28,27,1,20111,NA
+Lyon County,Minnesota,Lyon County, MN,698,6837,10,26,-16,27083,NA
+Mackinac County,Michigan,Mackinac County, MI,6,20,30,30,0,26097,NA
+Macomb County,Michigan,Macomb County, MI,5949,18267,33,30,3,26099,706.379612974575
+Macon County,Alabama,Macon County, AL,299,2269,13,33,-20,01087,NA
+Macon County,Illinois,Macon County, IL,1456,4264,34,33,1,17115,68.1206911320279
+Macoupin County,Illinois,Macoupin County, IL,301,516,58,33,25,17117,NA
+Madera County,California,Madera County, CA,97,5067,2,31,-29,06039,28.802351889081
+Madison County,Alabama,Madison County, AL,6708,15865,42,33,9,01089,190.363023047442
+Madison County,Florida,Madison County, FL,471,1181,40,38,2,12079,NA
+Madison County,Idaho,Madison County, ID,12802,44974,28,27,1,16065,NA
+Madison County,Illinois,Madison County, IL,4120,14751,28,33,-5,17119,142.616090674639
+Madison County,Indiana,Madison County, IN,533,1422,37,29,8,18095,111.734640905615
+Madison County,Kentucky,Madison County, KY,6055,13837,44,35,9,21151,83.5733396307583
+Madison County,Mississippi,Madison County, MS,492,762,65,42,23,28089,59.3397196931446
+Madison County,North Carolina,Madison County, NC,544,1019,53,35,18,37115,NA
+Madison County,Nebraska,Madison County, NE,924,5105,18,25,-7,31119,NA
+Madison County,New York,Madison County, NY,2157,6303,34,36,-2,36053,39.8905352253929
+Madison County,Ohio,Madison County, OH,25,71,35,28,7,39097,NA
+Madison County,Tennessee,Madison County, TN,3735,8776,43,37,6,47113,68.4558344073582
+Mahaska County,Iowa,Mahaska County, IA,639,1276,50,26,24,19123,NA
+Mahnomen County,Minnesota,Mahnomen County, MN,108,141,77,26,51,27087,NA
+Mahoning County,Ohio,Mahoning County, OH,3854,10852,36,28,8,39099,212.763176385129
+Malheur County,Oregon,Malheur County, OR,686,1470,47,30,17,41045,NA
+Manatee County,Florida,Manatee County, FL,3490,10859,32,38,-6,12081,214.423908632986
+Manatí  Municipio,Puerto Rico,Manatí  Municipio, PR,2372,3033,78,73,5,NA,NA
+Manitowoc County,Wisconsin,Manitowoc County, WI,642,2428,26,25,1,55071,53.4006724253555
+Marathon County,Wisconsin,Marathon County, WI,1222,6012,20,25,-5,55073,34.3928746211199
+Maricopa County,Arizona,Maricopa County, AZ,142537,388346,37,35,2,04013,188.726497338727
+Marin County,California,Marin County, CA,1065,5894,18,31,-13,06041,193.034481243604
+Marion County,Florida,Marion County, FL,8265,16021,52,38,14,12083,93.8063179656158
+Marion County,Iowa,Marion County, IA,285,1120,25,26,-1,19125,NA
+Marion County,Indiana,Marion County, IN,35451,124733,28,29,-1,18097,945.769861631408
+Marion County,Kansas,Marion County, KS,225,586,38,27,11,20115,NA
+Marion County,Missouri,Marion County, MO,229,654,35,30,5,29127,NA
+Marion County,Ohio,Marion County, OH,988,3477,28,28,0,39101,62.4359971501239
+Marion County,Oregon,Marion County, OR,3955,11519,34,30,4,41047,113.526057564509
+Marion County,South Carolina,Marion County, SC,26,61,43,33,10,45067,NA
+Marion County,West Virginia,Marion County, WV,1820,5187,35,32,3,54049,NA
+Marquette County,Michigan,Marquette County, MI,2003,6734,30,30,0,26103,14.1083209460836
+Marshall County,Alabama,Marshall County, AL,868,2142,41,33,8,01095,67.0254961226158
+Marshall County,Iowa,Marshall County, IA,352,1836,19,26,-7,19127,NA
+Marshall County,Mississippi,Marshall County, MS,522,623,84,42,42,28093,NA
+Marshall County,West Virginia,Marshall County, WV,11,27,41,32,9,54051,NA
+Martin County,Florida,Martin County, FL,65,145,45,38,7,12085,113.56314806646
+Martin County,North Carolina,Martin County, NC,255,910,28,35,-7,37117,NA
+Mason County,Kentucky,Mason County, KY,1459,3446,42,35,7,21161,NA
+Mason County,Michigan,Mason County, MI,410,1058,39,30,9,26105,NA
+Matanuska-Susitna Borough,Alaska,Matanuska-Susitna Borough, AK,19,40,48,21,27,02170,1.72924120458079
+Maui County,Hawaii,Maui County, HI,818,3047,27,25,2,15009,54.604039469941
+Maury County,Tennessee,Maury County, TN,1317,5931,22,37,-15,47119,65.9688954315502
+Maverick County,Texas,Maverick County, TX,93,96,97,33,64,48323,NA
+Mayagüez Municipio,Puerto Rico,Mayagüez Municipio, PR,10004,14761,68,73,-5,NA,NA
+Mayes County,Oklahoma,Mayes County, OK,208,1402,15,31,-16,40097,NA
+McClain County,Oklahoma,McClain County, OK,38,1049,4,31,-27,40087,NA
+McCracken County,Kentucky,McCracken County, KY,1819,4893,37,35,2,21145,104.702492486963
+McCurtain County,Oklahoma,McCurtain County, OK,10,16,62,31,31,40089,NA
+McDonough County,Illinois,McDonough County, IL,2650,5854,45,33,12,17109,NA
+McDowell County,North Carolina,McDowell County, NC,281,1125,25,35,-10,37111,NA
+McHenry County,Illinois,McHenry County, IL,1496,8798,17,33,-16,17111,199.07746934294
+McKean County,Pennsylvania,McKean County, PA,605,1305,46,30,16,42083,NA
+McKinley County,New Mexico,McKinley County, NM,1327,3511,38,35,3,35031,5.08458012852397
+McLean County,Illinois,McLean County, IL,7122,24514,29,33,-4,17113,55.7629862424742
+McLennan County,Texas,McLennan County, TX,10236,33322,31,33,-2,48309,97.9530879303042
+McMinn County,Tennessee,McMinn County, TN,604,1304,46,37,9,47107,NA
+McPherson County,Kansas,McPherson County, KS,1028,2257,46,27,19,20113,NA
+Mecklenburg County,North Carolina,Mecklenburg County, NC,16468,48787,34,35,-1,37119,827.608406308151
+Mecosta County,Michigan,Mecosta County, MI,3453,9929,35,30,5,26107,NA
+Medina County,Ohio,Medina County, OH,159,414,38,28,10,39103,167.757845513694
+Mendocino County,California,Mendocino County, CA,860,3370,26,31,-5,06045,10.0540370393801
+Menominee County,Wisconsin,Menominee County, WI,99,173,57,25,32,55078,NA
+Merced County,California,Merced County, CA,8735,19552,45,31,14,06047,57.1401962898001
+Mercer County,New Jersey,Mercer County, NJ,7732,32241,24,37,-13,34021,663.874655851719
+Mercer County,Ohio,Mercer County, OH,353,1739,20,28,-8,39107,NA
+Mercer County,Pennsylvania,Mercer County, PA,420,3199,13,30,-17,42085,63.1304644003817
+Mercer County,West Virginia,Mercer County, WV,1352,2794,48,32,16,54055,NA
+Merrimack County,New Hampshire,Merrimack County, NH,52504,119110,44,39,5,33013,64.2504335833344
+Mesa County,Colorado,Mesa County, CO,3840,10662,36,30,6,08077,18.2482994459213
+Miami County,Ohio,Miami County, OH,872,5002,17,28,-11,39109,103.77867911792
+Miami-Dade County,Florida,Miami-Dade County, FL,64632,145794,44,38,6,12086,541.462849724393
+Middlesex County,Connecticut,Middlesex County, CT,1462,5395,27,38,-11,09007,172.253085094375
+Middlesex County,Massachusetts,Middlesex County, MA,14912,69191,22,27,-5,25017,762.319080845574
+Middlesex County,New Jersey,Middlesex County, NJ,16981,51239,33,37,-4,34023,1074.83823503947
+Midland County,Michigan,Midland County, MI,645,2366,27,30,-3,26111,62.4157935637082
+Midland County,Texas,Midland County, TX,1104,4737,23,33,-10,48329,72.038760345017
+Mifflin County,Pennsylvania,Mifflin County, PA,42,99,42,30,12,42087,NA
+Milwaukee County,Wisconsin,Milwaukee County, WI,17384,51260,34,25,9,55079,1483.84843405176
+Mineral County,West Virginia,Mineral County, WV,518,1235,42,32,10,54057,NA
+Mingo County,West Virginia,Mingo County, WV,26,37,70,32,38,54059,NA
+Minidoka County,Idaho,Minidoka County, ID,35,59,59,27,32,16067,NA
+Minnehaha County,South Dakota,Minnehaha County, SD,1584,5612,28,25,3,46099,95.5571566529576
+Mississippi County,Arkansas,Mississippi County, AR,470,1358,35,37,-2,05093,NA
+Missoula County,Montana,Missoula County, MT,2170,6948,31,27,4,30063,17.7986079633561
+Mitchell County,Kansas,Mitchell County, KS,219,843,26,27,-1,20123,NA
+Mobile County,Alabama,Mobile County, AL,6088,15129,40,33,7,01097,129.731821668268
+Mohave County,Arizona,Mohave County, AZ,1371,3826,36,35,1,04015,6.31439645549171
+Monmouth County,New Jersey,Monmouth County, NJ,3975,15663,25,37,-12,34025,532.222727831367
+Monongalia County,West Virginia,Monongalia County, WV,5095,21505,24,32,-8,54061,114.071872624564
+Monroe County,Florida,Monroe County, FL,251,856,29,38,-9,12087,32.2738009065773
+Monroe County,Illinois,Monroe County, IL,96,165,58,33,25,17133,NA
+Monroe County,Indiana,Monroe County, IN,6030,33147,18,29,-11,18105,136.889849754017
+Monroe County,Michigan,Monroe County, MI,568,2399,24,30,-6,26115,109.132652601761
+Monroe County,Mississippi,Monroe County, MS,28,71,39,42,-3,28095,NA
+Monroe County,New York,Monroe County, NY,14609,44450,33,36,-3,36055,443.874355703215
+Monroe County,Pennsylvania,Monroe County, PA,2292,5556,41,30,11,42089,107.449104742461
+Montcalm County,Michigan,Montcalm County, MI,751,1414,53,30,23,26117,36.796734093111
+Monterey County,California,Monterey County, CA,6842,23498,29,31,-2,06053,51.4523186109666
+Montgomery County,Alabama,Montgomery County, AL,7730,13622,57,33,24,01101,111.820606546163
+Montgomery County,Georgia,Montgomery County, GA,346,835,41,40,1,13209,NA
+Montgomery County,Illinois,Montgomery County, IL,8,16,50,33,17,17135,NA
+Montgomery County,Indiana,Montgomery County, IN,230,868,26,29,-3,18107,NA
+Montgomery County,Kansas,Montgomery County, KS,862,2166,40,27,13,20125,NA
+Montgomery County,Maryland,Montgomery County, MD,5742,21550,27,29,-2,24031,825.980913853465
+Montgomery County,North Carolina,Montgomery County, NC,212,679,31,35,-4,37123,NA
+Montgomery County,New York,Montgomery County, NY,616,1946,32,36,-4,36057,NA
+Montgomery County,Ohio,Montgomery County, OH,7458,30463,24,28,-4,39113,448.3058258546
+Montgomery County,Pennsylvania,Montgomery County, PA,7081,26693,27,30,-3,42091,687.99167719525
+Montgomery County,Tennessee,Montgomery County, TN,4879,10180,48,37,11,47125,163.201808721176
+Montgomery County,Texas,Montgomery County, TX,14945,70276,21,33,-12,48339,240.294310170384
+Montgomery County,Virginia,Montgomery County, VA,4440,30020,15,29,-14,51121,98.2842523663651
+Moore County,North Carolina,Moore County, NC,1048,3991,26,35,-9,37125,56.8701103889778
+Moore County,Tennessee,Moore County, TN,1681,6504,26,37,-11,47127,NA
+Morgan County,Colorado,Morgan County, CO,556,1376,40,30,10,08087,NA
+Morgan County,Illinois,Morgan County, IL,470,1154,41,33,8,17137,NA
+Morris County,New Jersey,Morris County, NJ,3672,13175,28,37,-9,34027,428.367998781062
+Mountrail County,North Dakota,Mountrail County, ND,58,185,31,21,10,38061,NA
+Mower County,Minnesota,Mower County, MN,883,3494,25,26,-1,27099,NA
+Multnomah County,Oregon,Multnomah County, OR,19537,61039,32,30,2,41051,719.511607689876
+Muscogee County,Georgia,Muscogee County, GA,5356,10709,50,40,10,13215,366.799901720739
+Muskegon County,Michigan,Muskegon County, MI,1148,3788,30,30,0,26121,135.250801275235
+Muskingum County,Ohio,Muskingum County, OH,1557,6073,26,28,-2,39119,50.2033277185839
+Muskogee County,Oklahoma,Muskogee County, OK,1396,3729,37,31,6,40101,31.5150206951098
+Nacogdoches County,Texas,Nacogdoches County, TX,4085,11035,37,33,4,48347,NA
+Napa County,California,Napa County, CA,1297,5854,22,31,-9,06055,70.278108990633
+Nash County,North Carolina,Nash County, NC,1565,4226,37,35,2,37127,67.9954939597049
+Nassau County,New York,Nassau County, NY,16517,53008,31,36,-5,36059,1887.03697027758
+Natchitoches Parish,Louisiana,Natchitoches Parish, LA,3918,10339,38,42,-4,22069,NA
+Natrona County,Wyoming,Natrona County, WY,1091,3551,31,21,10,56025,5.75156178321114
+Navajo County,Arizona,Navajo County, AZ,413,2700,15,35,-20,04017,4.1966086384292
+Navarro County,Texas,Navarro County, TX,2155,7139,30,33,-3,48349,NA
+Nemaha County,Nebraska,Nemaha County, NE,745,1749,43,25,18,31127,NA
+Neosho County,Kansas,Neosho County, KS,413,1727,24,27,-3,20133,NA
+Nevada County,California,Nevada County, CA,14,36,39,31,8,06057,41.7187490231648
+New Castle County,Delaware,New Castle County, DE,6438,31331,21,26,-5,10003,517.781167985883
+New Hanover County,North Carolina,New Hanover County, NC,9923,27813,36,35,1,37129,460.058026796824
+New Haven County,Connecticut,New Haven County, CT,23328,54009,43,38,5,09009,551.642343523908
+New London County,Connecticut,New London County, CT,2081,6062,34,38,-4,09011,156.035519729393
+New York County,New York,New York County, NY,69661,182493,38,36,2,36061,26872.2327475817
+Newberry County,South Carolina,Newberry County, SC,590,1256,47,33,14,45071,NA
+Newport County,Rhode Island,Newport County, RI,448,2248,20,30,-10,44005,321.372715602688
+Newport News City,Virginia,Newport News City, VA,1002,5471,18,29,-11,NA,NA
+Newton County,Georgia,Newton County, GA,133,947,14,40,-26,13217,162.699348150291
+Newton County,Missouri,Newton County, MO,1492,4257,35,30,5,29145,NA
+Newton County,Mississippi,Newton County, MS,1086,2387,45,42,3,28101,NA
+Nez Perce County,Idaho,Nez Perce County, ID,1098,3935,28,27,1,16069,NA
+Niagara County,New York,Niagara County, NY,2268,7101,32,36,-4,36063,156.445425927996
+Nicollet County,Minnesota,Nicollet County, MN,1503,4883,31,26,5,27103,NA
+Nobles County,Minnesota,Nobles County, MN,16,37,43,26,17,27105,NA
+Nodaway County,Missouri,Nodaway County, MO,1653,5524,30,30,0,29147,NA
+Norfolk City,Virginia,Norfolk City, VA,16470,42763,39,29,10,NA,NA
+Norfolk County,Massachusetts,Norfolk County, MA,4884,17601,28,27,1,25021,706.223181987254
+North Slope Borough,Alaska,North Slope Borough, AK,27,232,12,21,-9,02185,NA
+Northampton County,Pennsylvania,Northampton County, PA,5371,18710,29,30,-1,42095,327.590669427493
+Northumberland County,Pennsylvania,Northumberland County, PA,29,52,56,30,26,42097,76.9385599216369
+Nueces County,Texas,Nueces County, TX,7593,20737,37,33,4,48355,162.617200658543
+Oakland County,Michigan,Oakland County, MI,11351,38165,30,30,0,26125,565.314658359862
+Ocean County,New Jersey,Ocean County, NJ,6017,14709,41,37,4,34029,398.782173493897
+Oglala Lakota County,South Dakota,Oglala Lakota County, SD,669,1217,55,25,30,46102,NA
+Ohio County,West Virginia,Ohio County, WV,1503,3981,38,32,6,54069,NA
+Okaloosa County,Florida,Okaloosa County, FL,1426,5672,25,38,-13,12091,88.5135178402286
+Oklahoma County,Oklahoma,Oklahoma County, OK,14424,48843,30,31,-1,40109,434.990284586024
+Okmulgee County,Oklahoma,Okmulgee County, OK,1360,2876,47,31,16,40111,NA
+Oktibbeha County,Mississippi,Oktibbeha County, MS,5739,18803,31,42,-11,28105,NA
+Olmsted County,Minnesota,Olmsted County, MN,1823,6269,29,26,3,27109,96.5601995739262
+Oneida County,New York,Oneida County, NY,4303,13396,32,36,-4,36065,73.3374907126236
+Oneida County,Wisconsin,Oneida County, WI,400,1236,32,25,7,55085,NA
+Onondaga County,New York,Onondaga County, NY,7695,30212,25,36,-11,36067,234.738644501827
+Onslow County,North Carolina,Onslow County, NC,1508,3998,38,35,3,37133,104.468503997427
+Ontario County,New York,Ontario County, NY,2019,7456,27,36,-9,36069,67.4481209428186
+Orange County,California,Orange County, CA,69648,243771,29,31,-2,06059,1542.79309908474
+Orange County,Florida,Orange County, FL,58838,153746,38,38,0,12095,608.644196533805
+Orange County,North Carolina,Orange County, NC,4600,19779,23,35,-12,37135,144.603032290156
+Orange County,New York,Orange County, NY,4653,10544,44,36,8,36071,192.273711395976
+Orange County,Texas,Orange County, TX,674,2382,28,33,-5,48361,98.0255232518902
+Orange County,Virginia,Orange County, VA,1846,7680,24,29,-5,51137,NA
+Orange County,Vermont,Orange County, VT,405,1516,27,22,5,50017,NA
+Orangeburg County,South Carolina,Orangeburg County, SC,3726,6351,59,33,26,45075,28.9530032733886
+Orleans County,Vermont,Orleans County, VT,61,139,44,22,22,50019,NA
+Orleans Parish,Louisiana,Orleans Parish, LA,16572,40734,41,42,-1,22071,859.05539829771
+Osage County,Missouri,Osage County, MO,619,1756,35,30,5,29151,NA
+Osceola County,Florida,Osceola County, FL,386,984,39,38,1,12097,117.275552272455
+Oswego County,New York,Oswego County, NY,2776,6707,41,36,5,36075,47.6263732404839
+Otero County,Colorado,Otero County, CO,411,1216,34,30,4,08089,NA
+Otero County,New Mexico,Otero County, NM,1190,2166,55,35,20,35035,4.00182016142725
+Otsego County,New York,Otsego County, NY,2569,7417,35,36,-1,36077,NA
+Ottawa County,Michigan,Ottawa County, MI,5795,23671,24,30,-6,26139,204.971912591733
+Ottawa County,Oklahoma,Ottawa County, OK,798,1769,45,31,14,40115,NA
+Otter Tail County,Minnesota,Otter Tail County, MN,1527,5757,27,26,1,27111,NA
+Ouachita Parish,Louisiana,Ouachita Parish, LA,5398,12028,45,42,3,22073,100.427559162428
+Outagamie County,Wisconsin,Outagamie County, WI,1939,13371,15,25,-10,55087,115.995008544238
+Overton County,Tennessee,Overton County, TN,268,1745,15,37,-22,47133,NA
+Ozaukee County,Wisconsin,Ozaukee County, WI,733,2907,25,25,0,55089,153.264857532687
+Palm Beach County,Florida,Palm Beach County, FL,25471,67632,38,38,0,12099,294.245767499003
+Pamlico County,North Carolina,Pamlico County, NC,113,362,31,35,-4,37137,NA
+Panola County,Texas,Panola County, TX,776,2513,31,33,-2,48365,NA
+Park County,Wyoming,Park County, WY,325,1438,23,21,2,56029,NA
+Parker County,Texas,Parker County, TX,1195,5480,22,33,-11,48367,66.9929751277563
+Pasco County,Florida,Pasco County, FL,6748,17964,38,38,0,12101,302.020944538991
+Pasquotank County,North Carolina,Pasquotank County, NC,1726,4519,38,35,3,37139,NA
+Passaic County,New Jersey,Passaic County, NJ,16018,34766,46,37,9,34031,1075.45076379096
+Payne County,Oklahoma,Payne County, OK,5568,21287,26,31,-5,40119,46.2328233387352
+Peach County,Georgia,Peach County, GA,1939,2542,76,40,36,13225,NA
+Pearl River County,Mississippi,Pearl River County, MS,2375,5065,47,42,5,28109,NA
+Pennington County,Minnesota,Pennington County, MN,777,2962,26,26,0,27113,NA
+Pennington County,South Dakota,Pennington County, SD,1523,4858,31,25,6,46103,15.5462987332806
+Penobscot County,Maine,Penobscot County, ME,4550,15665,29,28,1,23019,17.3622465845446
+Peoria County,Illinois,Peoria County, IL,1746,5622,31,33,-2,17143,111.980342983873
+Perry County,Alabama,Perry County, AL,143,401,36,33,3,01105,NA
+Perry County,Kentucky,Perry County, KY,1442,3270,44,35,9,21193,NA
+Perry County,Pennsylvania,Perry County, PA,5,19,26,30,-4,42099,NA
+Person County,North Carolina,Person County, NC,366,1352,27,35,-8,37145,NA
+Petersburg City,Virginia,Petersburg City, VA,73,79,92,29,63,NA,NA
+Pettis County,Missouri,Pettis County, MO,1530,4048,38,30,8,29159,NA
+Phelps County,Missouri,Phelps County, MO,1375,6230,22,30,-8,29161,NA
+Philadelphia County,Pennsylvania,Philadelphia County, PA,28846,90060,32,30,2,42101,4533.86868952395
+Phillips County,Arkansas,Phillips County, AR,431,1092,39,37,2,05107,NA
+Pickaway County,Ohio,Pickaway County, OH,849,1961,43,28,15,39129,NA
+Pickens County,South Carolina,Pickens County, SC,3618,22296,16,33,-17,45077,102.741540874272
+Pierce County,Washington,Pierce County, WA,7812,30672,25,24,1,53053,214.303918667354
+Pierce County,Wisconsin,Pierce County, WI,1269,5421,23,25,-2,55093,NA
+Pike County,Alabama,Pike County, AL,5120,12712,40,33,7,01109,NA
+Pike County,Kentucky,Pike County, KY,867,1633,53,35,18,21195,NA
+Pike County,Missouri,Pike County, MO,23,40,58,30,28,29163,NA
+Pike County,Mississippi,Pike County, MS,1137,1886,60,42,18,28113,NA
+Pike County,Ohio,Pike County, OH,0,52,0,28,-28,39131,NA
+Pima County,Arizona,Pima County, AZ,18669,59003,32,35,-3,04019,44.2126069310248
+Pinal County,Arizona,Pinal County, AZ,1489,4316,34,35,-1,04021,32.3481454675237
+Pine County,Minnesota,Pine County, MN,266,1724,15,26,-11,27115,NA
+Pinellas County,Florida,Pinellas County, FL,34840,64833,54,38,16,12103,1349.23276107495
+Pitt County,North Carolina,Pitt County, NC,10522,30936,34,35,-1,37147,101.898054068896
+Pittsburg County,Oklahoma,Pittsburg County, OK,300,1926,16,31,-15,40121,NA
+Placer County,California,Placer County, CA,4269,18860,23,31,-8,06061,113.134797351686
+Platte County,Missouri,Platte County, MO,3349,9420,36,30,6,29165,99.8573827163938
+Plumas County,California,Plumas County, CA,201,1921,10,31,-21,06063,NA
+Plymouth County,Massachusetts,Plymouth County, MA,4636,15329,30,27,3,25023,312.310198280715
+Polk County,Arkansas,Polk County, AR,358,798,45,37,8,05113,NA
+Polk County,Florida,Polk County, FL,8120,25188,32,38,-6,12105,161.886320895081
+Polk County,Iowa,Polk County, IA,5400,24339,22,26,-4,19153,335.246559555327
+Polk County,Minnesota,Polk County, MN,534,2530,21,26,-5,27119,NA
+Polk County,Missouri,Polk County, MO,995,2535,39,30,9,29167,NA
+Polk County,Oregon,Polk County, OR,1567,4070,39,30,9,41053,46.4641868704843
+Ponce Municipio,Puerto Rico,Ponce Municipio, PR,10530,12781,82,73,9,NA,NA
+Pontotoc County,Mississippi,Pontotoc County, MS,40,73,55,42,13,28115,NA
+Pontotoc County,Oklahoma,Pontotoc County, OK,1228,3280,37,31,6,40123,NA
+Pope County,Arkansas,Pope County, AR,3648,10205,36,37,-1,05115,NA
+Portage County,Ohio,Portage County, OH,6222,21826,29,28,1,39133,128.632646697506
+Portage County,Wisconsin,Portage County, WI,2061,7698,27,25,2,55097,33.9725277183077
+Porter County,Indiana,Porter County, IN,728,2846,26,29,-3,18127,160.919894486021
+Pottawatomie County,Oklahoma,Pottawatomie County, OK,726,2756,26,31,-5,40125,35.7925651837909
+Pottawattamie County,Iowa,Pottawattamie County, IA,1732,5858,30,26,4,19155,37.9002101375413
+Potter County,Texas,Potter County, TX,4071,9562,43,33,10,48375,49.5371582726654
+Poweshiek County,Iowa,Poweshiek County, IA,300,1493,20,26,-6,19157,NA
+Pratt County,Kansas,Pratt County, KS,307,1164,26,27,-1,20151,NA
+Prentiss County,Mississippi,Prentiss County, MS,1730,3243,53,42,11,28117,NA
+Prince Edward County,Virginia,Prince Edward County, VA,1163,4821,24,29,-5,51147,NA
+Prince George's County,Maryland,Prince George's County, MD,26197,99002,26,29,-3,24033,764.207077515922
+Prince William County,Virginia,Prince William County, VA,167,375,45,29,16,51153,557.144424465998
+Providence County,Rhode Island,Providence County, RI,9155,31580,29,30,-1,44007,620.633146642744
+Prowers County,Colorado,Prowers County, CO,206,723,28,30,-2,08099,NA
+Pueblo County,Colorado,Pueblo County, CO,3491,9664,36,30,6,08101,27.4472949678498
+Pulaski County,Arkansas,Pulaski County, AR,8818,17202,51,37,14,05119,202.393746984032
+Pulaski County,Illinois,Pulaski County, IL,410,1176,35,33,2,17153,NA
+Pulaski County,Kentucky,Pulaski County, KY,2429,4837,50,35,15,21199,38.3650681325212
+Pulaski County,Missouri,Pulaski County, MO,38,93,41,30,11,29169,NA
+Pulaski County,Virginia,Pulaski County, VA,929,4137,22,29,-7,51155,NA
+Putnam County,Florida,Putnam County, FL,1636,6828,24,38,-14,12107,39.3424014798875
+Putnam County,Indiana,Putnam County, IN,319,1752,18,29,-11,18133,NA
+Putnam County,Tennessee,Putnam County, TN,3619,9747,37,37,0,47141,78.1510064071331
+Putnam County,West Virginia,Putnam County, WV,256,338,76,32,44,54079,NA
+Quay County,New Mexico,Quay County, NM,85,709,12,35,-23,35037,NA
+Queen Anne's County,Maryland,Queen Anne's County, MD,564,1904,30,29,1,24035,NA
+Queens County,New York,Queens County, NY,32381,81191,40,36,4,36081,8274.25542534067
+Racine County,Wisconsin,Racine County, WI,37,97,38,25,13,55101,228.57714127519
+Radford City,Virginia,Radford City, VA,2725,7307,37,29,8,NA,NA
+Raleigh County,West Virginia,Raleigh County, WV,1274,3335,38,32,6,54081,47.0517440091734
+Ramsey County,Minnesota,Ramsey County, MN,10960,35377,31,26,5,27123,1377.96104190978
+Ramsey County,North Dakota,Ramsey County, ND,209,1771,12,21,-9,38071,NA
+Randall County,Texas,Randall County, TX,3054,7326,42,33,9,48381,60.906650203239
+Randolph County,Alabama,Randolph County, AL,1360,3985,34,33,1,01111,NA
+Randolph County,Arkansas,Randolph County, AR,673,1350,50,37,13,05121,NA
+Randolph County,Georgia,Randolph County, GA,190,302,63,40,23,13243,NA
+Randolph County,Missouri,Randolph County, MO,1599,5042,32,30,2,29175,NA
+Randolph County,North Carolina,Randolph County, NC,790,2548,31,35,-4,37151,71.6475632967839
+Randolph County,West Virginia,Randolph County, WV,365,762,48,32,16,54083,NA
+Rankin County,Mississippi,Rankin County, MS,51,69,74,42,32,28121,78.7089395193531
+Rapides Parish,Louisiana,Rapides Parish, LA,3919,8209,48,42,6,22079,37.621693189395
+Ravalli County,Montana,Ravalli County, MT,7,39,18,27,-9,30081,NA
+Reno County,Kansas,Reno County, KS,1203,4907,25,27,-2,20155,NA
+Rensselaer County,New York,Rensselaer County, NY,4105,16640,25,36,-11,36083,94.8201492611245
+Rhea County,Tennessee,Rhea County, TN,335,1195,28,37,-9,47143,NA
+Rice County,Kansas,Rice County, KS,251,665,38,27,11,20159,NA
+Rice County,Minnesota,Rice County, MN,853,4893,17,26,-9,27131,52.375958395084
+Richland County,Illinois,Richland County, IL,276,906,30,33,-3,17159,NA
+Richland County,North Dakota,Richland County, ND,560,2829,20,21,-1,38077,NA
+Richland County,Ohio,Richland County, OH,1220,4119,30,28,2,39139,97.6138216886311
+Richland County,South Carolina,Richland County, SC,9109,33446,27,33,-6,45079,213.264845713985
+Richmond City,Virginia,Richmond City, VA,7823,26442,30,29,1,NA,NA
+Richmond County,Georgia,Richmond County, GA,4883,10845,45,40,5,13245,244.855660235389
+Richmond County,North Carolina,Richmond County, NC,950,2226,43,35,8,37153,NA
+Richmond County,New York,Richmond County, NY,6280,14320,44,36,8,36085,3312.64755011967
+Riley County,Kansas,Riley County, KS,3618,17530,21,27,-6,20161,45.7253371451425
+Rio Arriba County,New Mexico,Rio Arriba County, NM,492,1234,40,35,5,35039,NA
+Rio Blanco County,Colorado,Rio Blanco County, CO,210,993,21,30,-9,08103,NA
+Riverside County,California,Riverside County, CA,38788,111043,35,31,4,06065,131.712187522334
+Roane County,Tennessee,Roane County, TN,1858,5814,32,37,-5,47145,NA
+Roanoke City,Virginia,Roanoke City, VA,1776,5928,30,29,1,NA,NA
+Roanoke County,Virginia,Roanoke County, VA,251,687,37,29,8,51161,148.849067033699
+Roberts County,South Dakota,Roberts County, SD,58,125,46,25,21,46109,NA
+Robeson County,North Carolina,Robeson County, NC,4368,8264,53,35,18,37155,47.4143261139123
+Rock County,Wisconsin,Rock County, WI,1326,3457,38,25,13,55105,88.3785651420346
+Rock Island County,Illinois,Rock Island County, IL,1633,6298,26,33,-7,17161,129.100404354492
+Rockdale County,Georgia,Rockdale County, GA,583,969,60,40,20,13247,279.828717532632
+Rockingham County,North Carolina,Rockingham County, NC,571,1938,29,35,-6,37157,62.2984600091133
+Rockingham County,New Hampshire,Rockingham County, NH,441,1680,26,39,-13,33015,175.979735879584
+Rockingham County,Virginia,Rockingham County, VA,471,1552,30,29,1,51165,38.3444608161388
+Rockland County,New York,Rockland County, NY,4197,11242,37,36,1,36087,755.185298538889
+Rogers County,Oklahoma,Rogers County, OK,1401,3364,42,31,11,40131,55.2591248979479
+Rolette County,North Dakota,Rolette County, ND,348,586,59,21,38,38079,NA
+Roosevelt County,Montana,Roosevelt County, MT,88,328,27,27,0,30085,NA
+Roosevelt County,New Mexico,Roosevelt County, NM,1226,3927,31,35,-4,35041,NA
+Rosebud County,Montana,Rosebud County, MT,0,0,NA,27,NA,30087,NA
+Ross County,Ohio,Ross County, OH,641,2607,25,28,-3,39141,43.0765133931797
+Rowan County,Kentucky,Rowan County, KY,2820,8618,33,35,-2,21205,NA
+Rowan County,North Carolina,Rowan County, NC,3081,9144,34,35,-1,37159,111.834673269356
+Russell County,Alabama,Russell County, AL,639,1399,46,33,13,01113,NA
+Rutherford County,North Carolina,Rutherford County, NC,986,2042,48,35,13,37161,NA
+Rutherford County,Tennessee,Rutherford County, TN,7279,20678,35,37,-2,47149,219.585987567834
+Rutland County,Vermont,Rutland County, VT,609,1744,35,22,13,50021,NA
+Sacramento County,California,Sacramento County, CA,37382,112199,33,31,2,06067,635.443623273424
+Saginaw County,Michigan,Saginaw County, MI,2550,7554,34,30,4,26145,91.4486606818102
+Saipan Municipality,Northern Marianas,Saipan Municipality, MP,900,1255,72,72,0,NA,NA
+Salem City,Virginia,Salem City, VA,1084,2730,40,29,11,NA,NA
+Salem County,New Jersey,Salem County, NJ,316,865,37,37,0,34033,75.6811941876717
+Saline County,Illinois,Saline County, IL,347,1264,27,33,-6,17165,NA
+Saline County,Kansas,Saline County, KS,478,1517,32,27,5,20169,NA
+Saline County,Missouri,Saline County, MO,602,1663,36,30,6,29195,NA
+Saline County,Nebraska,Saline County, NE,353,1255,28,25,3,31151,NA
+Salt Lake County,Utah,Salt Lake County, UT,49978,168538,30,27,3,49035,617.302691933008
+Sampson County,North Carolina,Sampson County, NC,799,1492,54,35,19,37163,NA
+San Bernardino County,California,San Bernardino County, CA,38271,94508,40,31,9,06071,42.2426024468809
+San Diego County,California,San Diego County, CA,76348,273822,28,31,-3,06073,301.456260276852
+San Francisco County,California,San Francisco County, CA,18127,59600,30,31,-1,06075,6716.34542672514
+San Germán Municipio,Puerto Rico,San Germán Municipio, PR,2521,3143,80,73,7,NA,NA
+San Joaquin County,California,San Joaquin County, CA,7224,24891,29,31,-2,06077,218.899721178113
+San Juan County,New Mexico,San Juan County, NM,1862,5240,36,35,1,35045,8.46727262439291
+San Juan Municipio,Puerto Rico,San Juan Municipio, PR,27383,39808,69,73,-4,NA,NA
+San Lorenzo Municipio,Puerto Rico,San Lorenzo Municipio, PR,180,182,99,73,26,NA,NA
+San Luis Obispo County,California,San Luis Obispo County, CA,6444,33047,19,31,-12,06079,33.1233892103483
+San Mateo County,California,San Mateo County, CA,4493,26879,17,31,-14,06081,635.037003641694
+San Miguel County,New Mexico,San Miguel County, NM,1179,2422,49,35,14,35047,NA
+San Patricio County,Texas,San Patricio County, TX,60,106,57,33,24,48409,38.8081021199135
+San Sebastián Municipio,Puerto Rico,San Sebastián Municipio, PR,803,921,87,73,14,NA,NA
+Sandoval County,New Mexico,Sandoval County, NM,19,34,56,35,21,35043,15.7526034169609
+Sandusky County,Ohio,Sandusky County, OH,856,2093,41,28,13,39143,NA
+Sangamon County,Illinois,Sangamon County, IL,4244,10543,40,33,7,17167,86.5916493671388
+Sanpete County,Utah,Sanpete County, UT,1338,5800,23,27,-4,49039,NA
+Santa Barbara County,California,Santa Barbara County, CA,13020,48094,27,31,-4,06083,63.0260390230627
+Santa Clara County,California,Santa Clara County, CA,23709,111906,21,31,-10,06085,563.865542180778
+Santa Cruz County,California,Santa Cruz County, CA,7471,27188,27,31,-4,06087,232.283658240323
+Santa Fe County,New Mexico,Santa Fe County, NM,877,4497,20,35,-15,35049,31.37194094564
+Santa Rosa County,Florida,Santa Rosa County, FL,95,555,17,38,-21,12113,73.9871297969363
+Sarasota County,Florida,Sarasota County, FL,1026,4553,23,38,-15,12115,309.964855396126
+Saratoga County,New York,Saratoga County, NY,3232,11727,28,36,-8,36091,113.14236099498
+Sarpy County,Nebraska,Sarpy County, NE,1810,9665,19,25,-6,31153,313.577127982788
+Sauk County,Wisconsin,Sauk County, WI,24,56,43,25,18,55111,30.5044411860602
+Sawyer County,Wisconsin,Sawyer County, WI,167,276,61,25,36,55113,NA
+Schenectady County,New York,Schenectady County, NY,1520,6518,23,36,-13,36093,298.360634488616
+Schoharie County,New York,Schoharie County, NY,991,2079,48,36,12,36095,NA
+Schuylkill County,Pennsylvania,Schuylkill County, PA,117,235,50,30,20,42107,71.0407324593073
+Scioto County,Ohio,Scioto County, OH,1378,3575,39,28,11,39145,46.4071789928032
+Scotland County,North Carolina,Scotland County, NC,497,812,61,35,26,37165,NA
+Scott County,Iowa,Scott County, IA,3148,9980,32,26,6,19163,146.800776254387
+Scott County,Kentucky,Scott County, KY,360,1109,32,35,-3,21209,NA
+Scott County,Tennessee,Scott County, TN,167,440,38,37,1,47151,NA
+Scotts Bluff County,Nebraska,Scotts Bluff County, NE,505,1659,30,25,5,31157,NA
+Scurry County,Texas,Scurry County, TX,126,1430,9,33,-24,48415,NA
+Sebastian County,Arkansas,Sebastian County, AR,2571,6069,42,37,5,05131,93.2054619919308
+Sedgwick County,Kansas,Sedgwick County, KS,7955,22705,35,27,8,20173,202.761444132059
+Seminole County,Florida,Seminole County, FL,6424,19336,33,38,-5,12117,586.63034144925
+Seminole County,Oklahoma,Seminole County, OK,637,1476,43,31,12,40133,NA
+Seneca County,Ohio,Seneca County, OH,1243,3280,38,28,10,39147,NA
+Sevier County,Arkansas,Sevier County, AR,490,1415,35,37,-2,05133,NA
+Seward County,Kansas,Seward County, KS,381,1579,24,27,-3,20175,NA
+Seward County,Nebraska,Seward County, NE,293,2159,14,25,-11,31159,NA
+Shasta County,California,Shasta County, CA,3115,8978,35,31,4,06089,18.626990633438
+Shawnee County,Kansas,Shawnee County, KS,2098,6916,30,27,3,20177,126.519328474718
+Sheboygan County,Wisconsin,Sheboygan County, WI,677,2112,32,25,7,55117,88.8756504700031
+Shelby County,Alabama,Shelby County, AL,880,2228,39,33,6,01117,111.548386271718
+Shelby County,Tennessee,Shelby County, TN,19573,40575,48,37,11,47157,467.450857996914
+Sheridan County,Wyoming,Sheridan County, WY,631,3741,17,21,-4,56033,NA
+Sherman County,Kansas,Sherman County, KS,172,750,23,27,-4,20181,NA
+Shiawassee County,Michigan,Shiawassee County, MI,2387,5680,42,30,12,26155,49.3586883872111
+Silver Bow County,Montana,Silver Bow County, MT,509,2138,24,27,-3,30093,NA
+Sioux County,Iowa,Sioux County, IA,834,4218,20,26,-6,19167,NA
+Sioux County,North Dakota,Sioux County, ND,126,208,61,21,40,38085,NA
+Siskiyou County,California,Siskiyou County, CA,427,1276,33,31,2,06093,NA
+Skagit County,Washington,Skagit County, WA,902,4227,21,24,-3,53057,29.1650953936935
+Smith County,Texas,Smith County, TX,7123,19750,36,33,3,48423,99.3822428178258
+Snohomish County,Washington,Snohomish County, WA,2953,15602,19,24,-5,53061,154.243331884775
+Snyder County,Pennsylvania,Snyder County, PA,651,2332,28,30,-2,42109,NA
+Socorro County,New Mexico,Socorro County, NM,406,1229,33,35,-2,35053,NA
+Solano County,California,Solano County, CA,2329,11205,21,31,-10,06095,212.239880425703
+Somerset County,Maryland,Somerset County, MD,972,2069,47,29,18,24039,NA
+Somerset County,Maine,Somerset County, ME,714,2297,31,28,3,23025,NA
+Somerset County,New Jersey,Somerset County, NJ,2092,7972,26,37,-11,34035,442.107614012587
+Somerset County,Pennsylvania,Somerset County, PA,43,72,60,30,30,42111,26.4598598016852
+Sonoma County,California,Sonoma County, CA,5105,24298,21,31,-10,06097,119.046443386015
+Spalding County,Georgia,Spalding County, GA,2753,5232,53,40,13,13255,133.785624054725
+Spartanburg County,South Carolina,Spartanburg County, SC,5611,13408,42,33,9,45083,160.543165293825
+Spokane County,Washington,Spokane County, WA,9061,30430,30,24,6,53063,119.524071529087
+Spotsylvania County,Virginia,Spotsylvania County, VA,120,345,35,29,6,51177,138.164988908532
+St. Bernard Parish,Louisiana,St. Bernard Parish, LA,1202,2166,55,42,13,22087,NA
+St. Charles County,Missouri,St. Charles County, MO,3181,11427,28,30,-2,29183,282.4270639759
+St. Clair County,Illinois,St. Clair County, IL,2466,8607,29,33,-4,17163,149.571256069019
+St. Clair County,Michigan,St. Clair County, MI,991,3508,28,30,-2,26147,85.6727897998498
+St. Francis County,Arkansas,St. Francis County, AR,477,934,51,37,14,05123,NA
+St. Francois County,Missouri,St. Francois County, MO,897,2410,37,30,7,29187,57.7102402289724
+St. Johns County,Florida,St. Johns County, FL,1055,3335,32,38,-6,12109,187.979292249088
+St. Joseph County,Indiana,St. Joseph County, IN,3774,16673,23,29,-6,18141,229.536839303846
+St. Joseph County,Michigan,St. Joseph County, MI,258,950,27,30,-3,26149,NA
+St. Landry Parish,Louisiana,St. Landry Parish, LA,47,87,54,42,12,22097,34.2973876658409
+St. Lawrence County,New York,St. Lawrence County, NY,4086,11149,37,36,1,36089,15.5709359374732
+St. Louis City,Missouri,St. Louis City, MO,3809,12420,31,30,1,NA,NA
+St. Louis County,Minnesota,St. Louis County, MN,4089,18697,22,26,-4,27137,12.309116542992
+St. Louis County,Missouri,St. Louis County, MO,12967,49626,26,30,-4,29189,758.762176501672
+St. Lucie County,Florida,St. Lucie County, FL,5112,16055,32,38,-6,12111,232.045159563899
+St. Mary's County,Maryland,St. Mary's County, MD,371,1571,24,29,-5,24037,123.216634771853
+St. Tammany Parish,Louisiana,St. Tammany Parish, LA,3857,7932,49,42,7,22103,122.911724718822
+St. Thomas Island,Virgin Islands,St. Thomas Island, VI,779,1587,49,49,0,NA,NA
+Stanislaus County,California,Stanislaus County, CA,11612,28220,41,31,10,06099,142.721838033151
+Stanly County,North Carolina,Stanly County, NC,1485,3244,46,35,11,37167,NA
+Stark County,North Dakota,Stark County, ND,331,1381,24,21,3,38089,NA
+Stark County,Ohio,Stark County, OH,6669,20820,32,28,4,39151,250.884454880894
+Starke County,Indiana,Starke County, IN,0,55,0,29,-29,18149,NA
+Staunton City,Virginia,Staunton City, VA,776,1530,51,29,22,NA,NA
+Stearns County,Minnesota,Stearns County, MN,6606,21301,31,26,5,27145,45.7025063124554
+Stephens County,Georgia,Stephens County, GA,456,1677,27,40,-13,13257,NA
+Stephens County,Oklahoma,Stephens County, OK,46,582,8,31,-23,40137,NA
+Stephenson County,Illinois,Stephenson County, IL,446,1276,35,33,2,17177,NA
+Steuben County,Indiana,Steuben County, IN,669,3370,20,29,-9,18151,NA
+Steuben County,New York,Steuben County, NY,820,4063,20,36,-16,36101,25.8081013462693
+Stevens County,Minnesota,Stevens County, MN,390,1339,29,26,3,27149,NA
+Stone County,Mississippi,Stone County, MS,3610,8677,42,42,0,28131,NA
+Story County,Iowa,Story County, IA,5341,27036,20,26,-6,19169,67.0614791699196
+Strafford County,New Hampshire,Strafford County, NH,2392,12005,20,39,-19,33017,139.09827793357
+Stutsman County,North Dakota,Stutsman County, ND,271,912,30,21,9,38093,NA
+Suffolk County,Massachusetts,Suffolk County, MA,23167,92493,25,27,-2,25025,5112.48863752392
+Suffolk County,New York,Suffolk County, NY,16318,53395,31,36,-5,36103,646.347267366931
+Sullivan County,New Hampshire,Sullivan County, NH,257,694,37,39,-2,33019,NA
+Sullivan County,New York,Sullivan County, NY,591,1842,32,36,-4,36105,31.8273794858545
+Sullivan County,Tennessee,Sullivan County, TN,2730,6773,40,37,3,47163,148.74917068473
+Summit County,Ohio,Summit County, OH,5127,15314,33,28,5,39153,502.845174679389
+Sumner County,Tennessee,Sumner County, TN,3145,9594,33,37,-4,47165,146.269291545124
+Sumter County,Alabama,Sumter County, AL,1190,2248,53,33,20,01119,NA
+Sumter County,Florida,Sumter County, FL,134,161,83,38,45,12119,94.0027503168033
+Sumter County,Georgia,Sumter County, GA,2015,4448,45,40,5,13261,NA
+Sumter County,South Carolina,Sumter County, SC,1920,4667,41,33,8,45085,60.8161006229978
+Sunflower County,Mississippi,Sunflower County, MS,1152,2117,54,42,12,28133,NA
+Surry County,North Carolina,Surry County, NC,1312,3103,42,35,7,37171,51.4704336911026
+Susquehanna County,Pennsylvania,Susquehanna County, PA,42,44,95,30,65,42115,NA
+Sussex County,Delaware,Sussex County, DE,80,195,41,26,15,10005,102.092201506451
+Sussex County,New Jersey,Sussex County, NJ,693,2190,32,37,-5,34037,108.332859123225
+Sutter County,California,Sutter County, CA,115,199,58,31,27,06101,63.4796837428738
+Suwannee County,Florida,Suwannee County, FL,155,323,48,38,10,12121,NA
+Sweetwater County,Wyoming,Sweetwater County, WY,429,2776,15,21,-6,56037,NA
+Talladega County,Alabama,Talladega County, AL,931,1299,72,33,39,01121,42.7217102340116
+Tallapoosa County,Alabama,Tallapoosa County, AL,461,1546,30,33,-3,01123,NA
+Taney County,Missouri,Taney County, MO,722,1489,48,30,18,29213,NA
+Tangipahoa Parish,Louisiana,Tangipahoa Parish, LA,5000,13806,36,42,-6,22105,65.975986849606
+Taos County,New Mexico,Taos County, NM,175,1053,17,35,-18,35055,NA
+Tarrant County,Texas,Tarrant County, TX,31483,99273,32,33,-1,48439,950.663956767475
+Tate County,Mississippi,Tate County, MS,2485,7092,35,42,-7,28137,NA
+Taylor County,Florida,Taylor County, FL,86,284,30,38,-8,12123,NA
+Taylor County,Kentucky,Taylor County, KY,1383,5794,24,35,-11,21217,NA
+Taylor County,Texas,Taylor County, TX,2255,6422,35,33,2,48441,60.4437802283398
+Tazewell County,Illinois,Tazewell County, IL,1824,7879,23,33,-10,17179,77.8946849166535
+Tazewell County,Virginia,Tazewell County, VA,1421,3148,45,29,16,51185,NA
+Terrebonne Parish,Louisiana,Terrebonne Parish, LA,2095,3524,59,42,17,22109,34.1287032631044
+Texas County,Missouri,Texas County, MO,46,56,82,30,52,29215,NA
+Texas County,Oklahoma,Texas County, OK,555,1337,42,31,11,40139,NA
+Thomas County,Georgia,Thomas County, GA,2323,4886,48,40,8,13275,NA
+Thomas County,Kansas,Thomas County, KS,297,1326,22,27,-5,20193,NA
+Thurston County,Nebraska,Thurston County, NE,152,323,47,25,22,31173,NA
+Thurston County,Washington,Thurston County, WA,2639,8270,32,24,8,53067,159.240611617187
+Tift County,Georgia,Tift County, GA,1481,3990,37,40,-3,13277,NA
+Tillamook County,Oregon,Tillamook County, OR,137,497,28,30,-2,41057,NA
+Tioga County,Pennsylvania,Tioga County, PA,827,1878,44,30,14,42117,NA
+Tippah County,Mississippi,Tippah County, MS,337,972,35,42,-7,28139,NA
+Tippecanoe County,Indiana,Tippecanoe County, IN,22634,69376,33,29,4,18157,144.777350851565
+Tipton County,Tennessee,Tipton County, TN,226,428,53,37,16,47167,NA
+Titus County,Texas,Titus County, TX,1528,2862,53,33,20,48449,NA
+Todd County,South Dakota,Todd County, SD,343,375,91,25,66,46121,NA
+Tolland County,Connecticut,Tolland County, CT,5008,20527,24,38,-14,09013,141.411313588372
+Tom Green County,Texas,Tom Green County, TX,2754,9205,30,33,-3,48451,30.2922495940614
+Tompkins County,New York,Tompkins County, NY,4409,24473,18,36,-18,36109,85.5452047166617
+Tooele County,Utah,Tooele County, UT,98,810,12,27,-15,49045,4.26261895703279
+Toombs County,Georgia,Toombs County, GA,752,1792,42,40,2,13279,NA
+Towns County,Georgia,Towns County, GA,374,1396,27,40,-13,13281,NA
+Traill County,North Dakota,Traill County, ND,283,1145,25,21,4,38097,NA
+Transylvania County,North Carolina,Transylvania County, NC,323,761,42,35,7,37175,NA
+Travis County,Texas,Travis County, TX,25913,94981,27,33,-6,48453,508.064276953864
+Troup County,Georgia,Troup County, GA,1139,2692,42,40,2,13285,65.0206662013729
+Trousdale County,Tennessee,Trousdale County, TN,173,781,22,37,-15,47169,NA
+Trujillo Alto Municipio,Puerto Rico,Trujillo Alto Municipio, PR,157,338,46,73,-27,NA,NA
+Trumbull County,Ohio,Trumbull County, OH,1077,2243,48,28,20,39155,125.778320083591
+Tulare County,California,Tulare County, CA,8762,22752,39,31,8,06107,38.1793381786507
+Tulsa County,Oklahoma,Tulsa County, OK,10531,31552,33,31,2,40143,455.519276939726
+Tuolumne County,California,Tuolumne County, CA,476,2132,22,31,-9,06109,NA
+Tuscaloosa County,Alabama,Tuscaloosa County, AL,7431,36219,21,33,-12,01125,66.3567346543742
+Tuscarawas County,Ohio,Tuscarawas County, OH,446,1510,30,28,2,39157,62.9405191626337
+Twin Falls County,Idaho,Twin Falls County, ID,1664,7541,22,27,-5,16083,18.5330598462903
+Uintah County,Utah,Uintah County, UT,37,1644,2,27,-25,49047,NA
+Ulster County,New York,Ulster County, NY,2861,9740,29,36,-7,36111,62.8318056280861
+Umatilla County,Oregon,Umatilla County, OR,397,1292,31,30,1,41059,9.60473648869539
+Union County,Arkansas,Union County, AR,548,1313,42,37,5,05139,NA
+Union County,Iowa,Union County, IA,369,1503,25,26,-1,19175,NA
+Union County,North Carolina,Union County, NC,1085,2683,40,35,5,37179,148.687833258419
+Union County,New Jersey,Union County, NJ,10417,23497,44,37,7,34039,2149.50894728581
+Union County,Oregon,Union County, OR,1009,2586,39,30,9,41061,NA
+Union County,Pennsylvania,Union County, PA,678,4181,16,30,-14,42119,NA
+Union County,South Carolina,Union County, SC,151,1071,14,33,-19,45087,NA
+Upshur County,West Virginia,Upshur County, WV,458,1102,42,32,10,54097,NA
+Utah County,Utah,Utah County, UT,22811,80637,28,27,1,49049,131.998217824998
+Utuado Municipio,Puerto Rico,Utuado Municipio, PR,460,554,83,73,10,NA,NA
+Uvalde County,Texas,Uvalde County, TX,2150,6480,33,33,0,48463,NA
+Valencia County,New Mexico,Valencia County, NM,300,1435,21,35,-14,35061,27.9384991710717
+Van Wert County,Ohio,Van Wert County, OH,43,147,29,28,1,39161,NA
+Vance County,North Carolina,Vance County, NC,846,2963,29,35,-6,37181,NA
+Vanderburgh County,Indiana,Vanderburgh County, IN,2732,11066,25,29,-4,18163,297.397940277982
+Vega Baja Municipio,Puerto Rico,Vega Baja Municipio, PR,107,130,82,73,9,NA,NA
+Venango County,Pennsylvania,Venango County, PA,38,56,68,30,38,42121,NA
+Ventura County,California,Ventura County, CA,11883,44136,27,31,-4,06111,175.982727543323
+Vermilion County,Illinois,Vermilion County, IL,645,2333,28,33,-5,17183,31.4176252618108
+Vernon County,Missouri,Vernon County, MO,48,268,18,30,-12,29217,NA
+Victoria County,Texas,Victoria County, TX,2774,6976,40,33,7,48469,39.8153776294008
+Vigo County,Indiana,Vigo County, IN,4171,11839,35,29,6,18167,101.41115438216
+Villalba Municipio,Puerto Rico,Villalba Municipio, PR,137,171,80,73,7,NA,NA
+Virginia Beach City,Virginia,Virginia Beach City, VA,11723,23412,50,29,21,NA,NA
+Volusia County,Florida,Volusia County, FL,11580,37927,31,38,-7,12127,197.886093096496
+Wabash County,Illinois,Wabash County, IL,209,2222,9,33,-24,17185,NA
+Wabash County,Indiana,Wabash County, IN,482,1084,44,29,15,18169,NA
+Wake County,North Carolina,Wake County, NC,16382,58255,28,35,-7,37183,531.965226265412
+Waldo County,Maine,Waldo County, ME,546,1193,46,28,18,23027,NA
+Walker County,Alabama,Walker County, AL,1052,3200,33,33,0,01127,NA
+Walker County,Texas,Walker County, TX,7435,18840,39,33,6,48471,38.3910414332251
+Walla Walla County,Washington,Walla Walla County, WA,1488,5845,25,24,1,53071,NA
+Waller County,Texas,Waller County, TX,5395,8372,64,33,31,48473,NA
+Walton County,Florida,Walton County, FL,143,266,54,38,16,12131,29.7904562767584
+Walworth County,Wisconsin,Walworth County, WI,2633,10423,25,25,0,55127,74.2397820837902
+Wapello County,Iowa,Wapello County, IA,913,3326,27,26,1,19179,NA
+Ward County,North Dakota,Ward County, ND,576,2656,22,21,1,38101,13.2480895146197
+Ware County,Georgia,Ware County, GA,1221,3606,34,40,-6,13299,NA
+Warren County,Iowa,Warren County, IA,437,1225,36,26,10,19181,NA
+Warren County,Illinois,Warren County, IL,261,873,30,33,-3,17187,NA
+Warren County,Kentucky,Warren County, KY,6491,20001,32,35,-3,21227,97.7949712846761
+Warren County,New Jersey,Warren County, NJ,783,4442,18,37,-19,34041,119.913656622642
+Warren County,New York,Warren County, NY,1320,3459,38,36,2,36113,29.2134857912876
+Warren County,Ohio,Warren County, OH,72,420,17,28,-11,39165,237.245523364959
+Warren County,Pennsylvania,Warren County, PA,0,70,0,30,-30,42123,NA
+Warren County,Tennessee,Warren County, TN,230,449,51,37,14,47177,NA
+Wasatch County,Utah,Wasatch County, UT,30,44,68,27,41,49051,NA
+Wasco County,Oregon,Wasco County, OR,257,825,31,30,1,41065,NA
+Washburn County,Wisconsin,Washburn County, WI,928,2818,33,25,8,55129,NA
+Washington County,Arkansas,Washington County, AR,4652,23760,20,37,-17,05143,102.490618387012
+Washington County,Florida,Washington County, FL,179,441,41,38,3,12133,NA
+Washington County,Georgia,Washington County, GA,1067,1835,58,40,18,13303,NA
+Washington County,Maryland,Washington County, MD,1225,3598,34,29,5,24043,130.681064097553
+Washington County,Maine,Washington County, ME,170,354,48,28,20,23029,NA
+Washington County,Minnesota,Washington County, MN,2819,8477,33,26,7,27163,273.455794682476
+Washington County,New York,Washington County, NY,32,43,74,36,38,36115,NA
+Washington County,Ohio,Washington County, OH,943,3344,28,28,0,39167,NA
+Washington County,Oklahoma,Washington County, OK,218,791,28,31,-3,40147,NA
+Washington County,Oregon,Washington County, OR,694,2153,32,30,2,41067,320.287886711549
+Washington County,Pennsylvania,Washington County, PA,2247,6283,36,30,6,42125,94.3732572217256
+Washington County,Rhode Island,Washington County, RI,3345,14904,22,30,-8,44009,153.12829119943
+Washington County,Tennessee,Washington County, TN,4356,11074,39,37,2,47179,158.745327714625
+Washington County,Texas,Washington County, TX,3969,18255,22,33,-11,48477,NA
+Washington County,Utah,Washington County, UT,3561,13843,26,27,-1,49053,30.4159174291948
+Washington County,Virginia,Washington County, VA,1341,3042,44,29,15,51191,NA
+Washington County,Vermont,Washington County, VT,2305,8493,27,22,5,50023,NA
+Washita County,Oklahoma,Washita County, OK,56,535,10,31,-21,40149,NA
+Washoe County,Nevada,Washoe County, NV,7366,29798,25,32,-7,32031,30.2312455939907
+Washtenaw County,Michigan,Washtenaw County, MI,13753,57363,24,30,-6,26161,202.022382139511
+Watauga County,North Carolina,Watauga County, NC,5115,18061,28,35,-7,37189,NA
+Waukesha County,Wisconsin,Waukesha County, WI,1931,10508,18,25,-7,55133,287.094286276704
+Wayne County,Illinois,Wayne County, IL,180,1262,14,33,-19,17191,NA
+Wayne County,Indiana,Wayne County, IN,1437,4021,36,29,7,18177,63.868487042845
+Wayne County,Michigan,Wayne County, MI,24606,65564,38,30,8,26163,1119.71939332941
+Wayne County,North Carolina,Wayne County, NC,2040,5051,40,35,5,37191,81.4386477028172
+Wayne County,Nebraska,Wayne County, NE,1062,3440,31,25,6,31179,NA
+Wayne County,New York,Wayne County, NY,113,150,75,36,39,36117,58.1382264465166
+Wayne County,Ohio,Wayne County, OH,892,4330,21,28,-7,39169,81.2123876214279
+Weakley County,Tennessee,Weakley County, TN,2446,6395,38,37,1,47183,NA
+Webb County,Texas,Webb County, TX,7992,16735,48,33,15,48479,30.7763902686217
+Weber County,Utah,Weber County, UT,6056,32984,18,27,-9,49057,178.936002413729
+Webster County,Iowa,Webster County, IA,1477,4730,31,26,5,19187,NA
+Webster Parish,Louisiana,Webster Parish, LA,574,935,61,42,19,22119,NA
+Weld County,Colorado,Weld County, CO,3414,14532,23,30,-7,08123,32.9372119762505
+Westchester County,New York,Westchester County, NY,10805,28647,38,36,2,36119,894.839902668084
+Western District,American Samoa,Western District, AS,801,1081,74,74,0,NA,NA
+Westmoreland County,Pennsylvania,Westmoreland County, PA,2890,9343,31,30,1,42129,132.598003291759
+Wexford County,Michigan,Wexford County, MI,33,51,65,30,35,26165,NA
+Wharton County,Texas,Wharton County, TX,1533,6099,25,33,-8,48481,NA
+Whatcom County,Washington,Whatcom County, WA,4666,19316,24,24,0,53073,41.9148226149352
+White County,Arkansas,White County, AR,1906,6672,29,37,-8,05145,28.7994254841564
+White County,Georgia,White County, GA,305,2826,11,40,-29,13311,NA
+Whiteside County,Illinois,Whiteside County, IL,90,150,60,33,27,17195,NA
+Whitfield County,Georgia,Whitfield County, GA,2270,4892,46,40,6,13313,136.724201657445
+Whitley County,Kentucky,Whitley County, KY,2129,4511,47,35,12,21235,NA
+Whitman County,Washington,Whitman County, WA,6986,25470,27,24,3,53075,NA
+Wichita County,Texas,Wichita County, TX,2071,5141,40,33,7,48485,80.0198118445438
+Wicomico County,Maryland,Wicomico County, MD,2761,9915,28,29,-1,24045,107.224477589001
+Wilbarger County,Texas,Wilbarger County, TX,1012,2773,36,33,3,48487,NA
+Wilkes County,North Carolina,Wilkes County, NC,742,2435,30,35,-5,37193,33.6732804144576
+Will County,Illinois,Will County, IL,5936,19450,31,33,-2,17197,322.06711477513
+Williams County,North Dakota,Williams County, ND,222,959,23,21,2,38105,NA
+Williamsburg City,Virginia,Williamsburg City, VA,766,6236,12,29,-17,NA,NA
+Williamsburg County,South Carolina,Williamsburg County, SC,272,635,43,33,10,45089,NA
+Williamson County,Illinois,Williamson County, IL,832,3328,25,33,-8,17199,61.4548081249837
+Williamson County,Tennessee,Williamson County, TN,108,212,51,37,14,47187,169.403899873255
+Williamson County,Texas,Williamson County, TX,746,2320,32,33,-1,48491,222.002399018357
+Wilson County,North Carolina,Wilson County, NC,955,2998,32,35,-3,37195,82.3192726345582
+Wilson County,Tennessee,Wilson County, TN,1017,2702,38,37,1,47189,102.707719320976
+Winchester City,Virginia,Winchester City, VA,478,2267,21,29,-8,NA,NA
+Windham County,Connecticut,Windham County, CT,1856,5637,33,38,-5,09015,87.6325828312724
+Windham County,Vermont,Windham County, VT,81,564,14,22,-8,50025,NA
+Winnebago County,Iowa,Winnebago County, IA,777,2523,31,26,5,19189,NA
+Winnebago County,Illinois,Winnebago County, IL,4147,10390,40,33,7,17201,212.994057097249
+Winnebago County,Wisconsin,Winnebago County, WI,2359,14068,17,25,-8,55139,152.439125939883
+Winneshiek County,Iowa,Winneshiek County, IA,1299,5964,22,26,-4,19191,NA
+Winona County,Minnesota,Winona County, MN,2287,9630,24,26,-2,27169,NA
+Wise County,Virginia,Wise County, VA,1398,4158,34,29,5,51195,NA
+Wood County,Ohio,Wood County, OH,5647,22791,25,28,-3,39173,82.8710352625357
+Wood County,Texas,Wood County, TX,521,719,72,33,39,48499,NA
+Wood County,Wisconsin,Wood County, WI,787,2648,30,25,5,55141,36.0631707387945
+Wood County,West Virginia,Wood County, WV,698,2675,26,32,-6,54107,88.094202527948
+Woodbury County,Iowa,Woodbury County, IA,2230,7759,29,26,3,19193,46.7124120277753
+Woodford County,Illinois,Woodford County, IL,232,511,45,33,12,17203,NA
+Woodford County,Kentucky,Woodford County, KY,542,1164,47,35,12,21239,NA
+Woods County,Oklahoma,Woods County, OK,698,1922,36,31,5,40151,NA
+Woodward County,Oklahoma,Woodward County, OK,68,332,20,31,-11,40153,NA
+Worcester County,Massachusetts,Worcester County, MA,9948,34484,29,27,2,25027,220.32329255567
+Wyandotte County,Kansas,Wyandotte County, KS,1688,5484,31,27,4,20209,425.329442537077
+Wyoming County,Pennsylvania,Wyoming County, PA,668,1324,50,30,20,42131,NA
+Wythe County,Virginia,Wythe County, VA,783,2244,35,29,6,51197,NA
+Yakima County,Washington,Yakima County, WA,2925,6271,47,24,23,53077,23.0190224918762
+Yamhill County,Oregon,Yamhill County, OR,1187,4156,29,30,-1,41071,58.3760105067607
+Yankton County,South Dakota,Yankton County, SD,215,1003,21,25,-4,46135,NA
+Yates County,New York,Yates County, NY,523,1301,40,36,4,36123,NA
+Yavapai County,Arizona,Yavapai County, AZ,2391,9392,25,35,-10,04025,11.5140372904895
+Yellow Medicine County,Minnesota,Yellow Medicine County, MN,600,3253,18,26,-8,27173,NA
+Yellowstone County,Montana,Yellowstone County, MT,1336,4498,30,27,3,30111,24.5058835159496
+Yolo County,California,Yolo County, CA,11326,35621,32,31,1,06113,82.5624231415292
+York County,Maine,York County, ME,896,5687,16,28,-12,23031,83.6020937483657
+York County,Nebraska,York County, NE,203,443,46,25,21,31185,NA
+York County,Pennsylvania,York County, PA,1738,5883,30,30,0,42133,195.866330292369
+York County,South Carolina,York County, SC,3441,8989,38,33,5,45091,163.701511912948
+Yuba County,California,Yuba County, CA,1614,5499,29,31,-2,06115,50.9623644853465
+Yuma County,Arizona,Yuma County, AZ,2612,6723,39,35,4,04027,14.4939533112491
